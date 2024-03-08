@@ -1,0 +1,2670 @@
+{
+  "story": [
+    "A man is found dead in a filed. Lying next to him is an unopened package."
+  ],
+  "answer": [
+    "The man was skydiving and his parachute did not open. The unopened package was his parachute."
+  ],
+  "story_keys": "1. A man is found dead in a field.\n2. An unopened package is found lying next to him.",
+  "answer_keys": "1. The man was skydiving.\n2. His parachute did not open.\n3. The unopened package referred to in the text is his parachute.",
+  "likes": "91% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "Helen never thought that her decision to travel by plane would save her life."
+  ],
+  "answer": [
+    "A few days earlier Helen had been operated on. Before boarding the plane, she had to go through the metal detector, which kept going off, despite the fact that she had removed everything metal she had on. After an X-ray examination, it was discovered that the doctors had left a scalpel inside her body. If Helen had not discovered it in time, she would died for sure."
+  ],
+  "story_keys": "Helen's decision to travel by plane saved her life.",
+  "answer_keys": "- Helen had undergone surgery a few days earlier.\n- She faced problems with the metal detector at the airport as it kept going off.\n- An X-ray examination revealed a scalpel was left inside her body post-operation.\n- If the scalpel hadn't been discovered in time, Helen's life could have been at risk.",
+  "likes": "87% users",
+  "solving_time": "13 minutes",
+  "level": "6/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A woman buys a new pair of red high heels. Hours later, she dies."
+  ],
+  "answer": [
+    "Her husband was a magician that was doing a gun trick with an apple on her head and his eyes closed. He didn't realize that she was wearing high heals so he didn't calculate the height accurately.... so he killed her."
+  ],
+  "story_keys": "1. A woman purchases a new pair of red high heels.\n2. The same woman dies a few hours after buying the shoes.",
+  "answer_keys": "1. The woman's husband was a magician.\n2. The magician was performing a trick involving an apple on the woman's head, a gun, and his eyes being closed.\n3. The woman was wearing high heels, which the magician did not consider.\n4. Due to this oversight in calculation of height, the magician accidentally killed his wife.",
+  "likes": "87% users",
+  "solving_time": "14 minutes",
+  "level": "7/10 Hard",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "Jack and Judy were lying on the floor dead. There was a puddle of water and broken glass on the floor. How did they die?"
+  ],
+  "answer": [
+    "Jack and Judy were two goldfish that swam in a small aquarium placed on a shelf. One afternoon, a cat sneaked into the room through the window and hit the aquarium that fell off the shelf and broke against the ground."
+  ],
+  "story_keys": "- Jack and Judy are dead.\n- They were found lying on the floor.\n- A puddle of water and broken glass were found on the floor.",
+  "answer_keys": "- Jack and Judy are two goldfish in a small aquarium on a shelf.\n- A cat sneaked into the room through a window.\n- The cat hit the aquarium causing it to fall off the shelf.\n- The aquarium broke when it hit the ground.",
+  "likes": "87% users",
+  "solving_time": "10 minutes",
+  "level": "5/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "There are a man and his son in a car. The car crashes and the father dies. When the ambulance takes the son to the hospital, the surgeon says:\" I can't do the surgery, because he is my son\". How can that be possible?"
+  ],
+  "answer": [
+    "Because the surgeon is a woman and his mother."
+  ],
+  "story_keys": "1. A man and his son are in a car.\n2. The car crashes resulting in the father's death.\n3. The son is taken to the hospital by an ambulance.\n4. The surgeon at the hospital refuses to operate on the son, claiming that he is his son.\n5. The sentence raises a questions - how is this possible, considering the father died in the car crash.",
+  "answer_keys": "The sentence is incomplete and doesn't provide enough context or information for any key points to be determined.",
+  "likes": "87% users",
+  "solving_time": "2 minutes",
+  "level": "5/10 medium",
+  "date": "16 November 2023"
+}
+{
+  "story": [
+    "A hunter aimed his gun carefully and fired. Seconds later, he realized his mistake. Minutes later, he was dead."
+  ],
+  "answer": [
+    "He hunted in snow-capped mountains. The shot provoked an avalanche, which covered the man. He died of strangulation."
+  ],
+  "story_keys": "1. A hunter aimed his gun and fired it.\n2. The hunter realized his mistake seconds later.\n3. The hunter died minutes after realizing his mistake.",
+  "answer_keys": "1. The man was hunting in snow-capped mountains.\n2. His shot triggered an avalanche.\n3. The avalanche covered the man.\n4. He died due to strangulation.",
+  "likes": "86% users",
+  "solving_time": "9 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "A man went into a party and drank some of the punch. He then left early. Everyone at the party who drunk the punch subsequently died of poisoning. Why did the man not die?"
+  ],
+  "answer": [
+    "The poison from the punch came from the ice cubes. When the man drank the punch, the ice was fully frozen. Gradually, as the ice cubes melted the poison was released into the punch."
+  ],
+  "story_keys": "- A man attended a party and drank some punch.\n- He left the party early.\n- Everyone at the party who drank the punch later died of poisoning.\n- Despite drinking the punch, the man did not die.",
+  "answer_keys": "-The poison in the punch came from the ice cubes.\n-When the man drank the punch, the ice was fully frozen.\n-The poison was gradually released into the punch as the ice cubes melted.",
+  "likes": "86% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "Matthew keeps reading a bedtime story to his son despite the blackout."
+  ],
+  "answer": [
+    "Matthew was blind and he usually read bedtime stories to his son from a braille book. That night there was a blackout, but this did not stop him from finishing the story."
+  ],
+  "story_keys": "['Matthew continues to read a bedtime story to his son during a blackout.']",
+  "answer_keys": "1. Matthew is blind.\n2. He often reads bedtime stories to his son from a braille book. \n3. There was a blackout one night.\n4. Despite the blackout, Matthew continued to finish reading the story.",
+  "likes": "86% users",
+  "solving_time": "4 minutes",
+  "level": "2/10 Easy",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A man lives on the 10th floor of a building. Every morning he takes the elevator to the ground floor to go to work. Upon returning from work he goes up always to floor 7th in the elevator. Then he goes upstairs the 3 remaining floors. "
+  ],
+  "answer": [
+    "The man is very short so he has no problem to press the button on the ground floor but he does not reach the 10th floor button. The maximum he reaches is up to the 7th floor button."
+  ],
+  "story_keys": "- A man lives on the 10th floor of a building.\n- Every morning he takes the elevator to the ground floor to go to work.\n- Upon returning from work, he takes the elevator to the 7th floor.\n- He then walks up the remaining 3 floors to his apartment.",
+  "answer_keys": "- The man is very short.\n- He can easily press the button for the ground floor.\n- He cannot reach the 10th floor button due to his height. \n- The maximum level he can reach is the 7th floor button.",
+  "likes": "86% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "Every night before going to sleep, Lisa locks the door of her house and attaches the key to a string. Why?"
+  ],
+  "answer": [
+    "Lisa was a sleepwalker. Some days before, she had left her house in the middle of the night without realizing. To prevent this happening again, she began tying the key with a piece of string to a bell each night. That way, if Lisa tried to leave the house, her husband would wake up and take her back to bed."
+  ],
+  "story_keys": "- Every night, Lisa locks her house door before going to sleep.\n- Lisa attaches the key to a string. \n- There is a question as to why Lisa follows this routine.",
+  "answer_keys": "1. Lisa is a sleepwalker.\n2. A few days prior, she left her house at night unintentionally.\n3. To prevent a recurrence, Lisa started attaching her key to a bell using string every night.\n4. The intention was that if Lisa tried to leave again, the bell would wake her husband who would then take her back to bed.",
+  "likes": "86% users",
+  "solving_time": "14 minutes",
+  "level": "5/10 medium",
+  "date": "30 July 2021"
+}
+{
+  "story": [
+    "After George tries to hug a person, he dies by drowning."
+  ],
+  "answer": [
+    "George was under the influence of alcohol and saw his reflection on a river. As he was intoxicated, he thought that it would be a good idea to give a hug to the \"stranger\". However this caused him to fall into the river and drown. "
+  ],
+  "story_keys": "- George attempts to hug someone.\n- George dies by drowning.",
+  "answer_keys": "- George was under the influence of alcohol.\n- He saw his reflection in a river and, being intoxicated, thought it was a stranger.\n- He tried to hug the \"stranger\" in the river.\n- This action caused him to fall into the river and drown.",
+  "likes": "85% users",
+  "solving_time": "11 minutes",
+  "level": "5/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A black cat is walking through the middle of a road where there is a broken street lamp. A man is driving his vehicle with headlights that do not work. Despite all of this, he is able to avoid harming the cat."
+  ],
+  "answer": [
+    "The man avoided the cat because it was daylight."
+  ],
+  "story_keys": "['A black cat is walking on a road with a broken street lamp', 'A man is driving his vehicle with non-working headlights', 'The man is able to avoid harming the cat despite these conditions.']",
+  "answer_keys": "- The man avoided the cat\n- This happened during daylight.",
+  "likes": "85% users",
+  "solving_time": "4 minutes",
+  "level": "2/10 Easy",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A little girl was warned by her parents never to open the cellar door. If she did, she would see things that they did not want her to see. One day, while her parents were out, they accidentally left the cellar door unlocked. The girl opened the cellar door. What did she see?"
+  ],
+  "answer": [
+    "When the girl opened the cellar door she saw the living room and a beautiful garden through its windows. She had never seen these before because her parents had kept her in the cellar all her life."
+  ],
+  "story_keys": "-The parents warned the little girl not to open the cellar door.\n-They stated she would see things they didn't want her to if she did. \n-One day, the parents left the cellar door unlocked by mistake. \n-The little girl opened the cellar door. \n-The text does not specify what the little girl saw.",
+  "answer_keys": "- The girl opened the cellar door and saw a living room and a beautiful garden for the first time.\n- She was kept in the cellar all her life by her parents hence, she had never seen these surroundings before.",
+  "likes": "84% users",
+  "solving_time": "14 minutes",
+  "level": "7/10 Hard",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A married couple was speeding into town when their sedan ran out of gas. The man went for help after making sure his wife closed the windows and locked the doors of the car. Upon his return, he found his wife dead and a stranger in the car. The windows were still closed, the doors were still locked, and no damage was done to the car. "
+  ],
+  "answer": [
+    "The woman gave birth, and bled to death. Since the father has never seen the baby before, the kid can technically be called a stranger."
+  ],
+  "story_keys": "1. A married couple's sedan ran out of gas while speeding into town.\n2. The husband left to find help after ensuring his wife locked the car.\n3. When he returned, his wife was dead with a stranger in the car.\n4. The car's windows and doors were locked with no signs of damage.",
+  "answer_keys": "1. The woman died after giving birth.\n2. The father has never seen the baby before.\n3. The baby can technically be considered a stranger to the father.",
+  "likes": "84% users",
+  "solving_time": "7 minutes",
+  "level": "5/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A man woke up at night feeling thirsty. Then he turned off the light everywhere and went to bed again. In the morning he woke up, looked out of the window and yelled. Soon after he committed suicide. "
+  ],
+  "answer": [
+    "The man was caretaker. Accindetally he turned off the lighthouse and it caused some shipwrecks. When he woke up, he realized what he have done."
+  ],
+  "story_keys": "1. A man woke up at night feeling thirsty.\n2. He turned off all the lights and went back to bed.\n3. In the morning, he yelled after looking out the window.\n4. The man committed suicide shortly after.",
+  "answer_keys": "- The man was a caretaker of a lighthouse.\n- He accidentally turned off the lighthouse.\n- This caused several shipwrecks.\n- When he woke up, he realized the consequence of his action.",
+  "likes": "84% users",
+  "solving_time": "13 minutes",
+  "level": "5/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "Anthony couldn't have imagine his cold would be the cause of his death."
+  ],
+  "answer": [
+    "There was a gas leak at Anthony's house but since he had a cold, he could not smell it. He died when he started a fire, as he was cooking his dinner. "
+  ],
+  "story_keys": "Anthony dies due to an unforeseen severity of his cold.",
+  "answer_keys": "1. There was a gas leak at Anthony's house.\n2. Anthony had a cold and could not smell the gas.\n3. He started a fire while cooking dinner.\n4. The fire led to Anthony's death.",
+  "likes": "84% users",
+  "solving_time": "6 minutes",
+  "level": "5/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "Francis dies of a heart attack at work. His colleagues are there when it happens. However, they do not call for help until Francis dies. "
+  ],
+  "answer": [
+    "Francis was a theather actor and suffered a heart attack in the middle of a performance. However, he was playing someone who was having a heart attack. Therefore, both his colleagues and the audience simply thought that he was giving a really impressive performance."
+  ],
+  "story_keys": "- Francis dies from a heart attack at work.\n- His colleagues are present during his heart attack.\n- His colleagues don't call for help until Francis dies.",
+  "answer_keys": "- Francis was a theater actor.\n- He suffered a heart attack in the middle of a performance.\n- At the time of the attack, his character was supposed to be having a heart attack.\n- His colleagues and the audience thought it was part of the performance due to the timing and situation.",
+  "likes": "84% users",
+  "solving_time": "7 minutes",
+  "level": "4/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "When on a bus, Kate wanted to offer her seat to a woman who's just goton. But she was very embarrassed and refused. Why?"
+  ],
+  "answer": [
+    "Little Kate was sitting in her dad's lap."
+  ],
+  "story_keys": "1. Kate is on a bus.\n2. Kate wanted to offer her seat to a woman.\n3. The woman had just got on the bus.\n4. The woman refused the offer and Kate was very embarrassed.",
+  "answer_keys": "1. Little Kate is the subject.\n2. She is sitting in her dad's lap.",
+  "likes": "84% users",
+  "solving_time": "9 minutes",
+  "level": "5/10 medium",
+  "date": "28 June 2020"
+}
+{
+  "story": [
+    "Beulah died in the Appalachians, while Craig died at sea. Everyone was much happier with Craig's death. How come?"
+  ],
+  "answer": [
+    "Beulah and Craig were hurricanes."
+  ],
+  "story_keys": "1. Beulah died in the Appalachians.\n2. Craig died at sea.\n3. People were happier with Craig's death. \n4. The reason behind people's happiness at Craig's death is questioned.",
+  "answer_keys": "- Beulah and Craig were hurricanes.",
+  "likes": "84% users",
+  "solving_time": "8 minutes",
+  "level": "6/10 medium",
+  "date": "19 January 2022"
+}
+{
+  "story": [
+    "A woman is at home, sad, and watching the street through her window. Soon after she jumps out of it. Just in that precise moment, she hears the telephone ringing and regrets jumping."
+  ],
+  "answer": [
+    "After a nuclear catastrophe, the woman thought that she was the only person alive and decided to put an end to her life. When the telephone rang she realized that she was not alone. But it was too late for her. "
+  ],
+  "story_keys": "1. A woman is at home, feeling sad, and watching the street through her window.\n2. The woman jumps out of her window.\n3. Immediately after jumping, she hears the telephone ringing.\n4. She regrets jumping out of the window.",
+  "answer_keys": "1. A nuclear catastrophe occurs.\n2. The woman believes she is the only survivor.\n3. She resolves to commit suicide thinking she's alone.\n4. The woman receives a phone call indicating other survivors.\n5. She realizes she's not alone but it's too late to reverse her decision.",
+  "likes": "83% users",
+  "solving_time": "18 minutes",
+  "level": "6/10 medium",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "A woman is watching a movie. Suddenly she hears a lot of explosions and people screaming outside. Then there is silence. The woman turns off the TV and goes to sleep. "
+  ],
+  "answer": [
+    "It was New Year's Eve. The woman waited until everyone had finished celebrating and then went to bed."
+  ],
+  "story_keys": "1. A woman is watching a movie.\n2. She hears explosions and people screaming outside.\n3. It suddenly becomes silent again.\n4. The woman turns off the TV.\n5. She goes to sleep.",
+  "answer_keys": "- It was New Year's Eve.\n- The woman waited until everyone finished celebrating.\n- After the celebrations, she went to bed.",
+  "likes": "83% users",
+  "solving_time": "4 minutes",
+  "level": "2/10 Easy",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "A man walks into a bar and asks for a drink. The bartender pulls out a gun and points it at him. The man says, \"Thank you,\" and walks out. How come?"
+  ],
+  "answer": [
+    "The man has hiccups; the bartender scares them away by pulling a gun."
+  ],
+  "story_keys": "- A man enters a bar and asks for a drink.\n- The bartender responds by pulling out a gun and pointing it at the man.\n- Instead of reacting negatively, the man says \"Thank you,\" and leaves the bar.",
+  "answer_keys": "1. The man has hiccups.\n2. The bartender scares away the man's hiccups.\n3. The bartender uses the method of pulling a gun to scare the hiccups away.",
+  "likes": "83% users",
+  "solving_time": "11 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "A salesman tries too hard to get a sale and as a result ends up dying. "
+  ],
+  "answer": [
+    "The salesman sold bulletproof vests. One day, to prove the quality of his product to a customer, he put one of them on and insisted the client to shoot him. The client accepted but unfortunately he missed the shot and shot the salesman in the head. "
+  ],
+  "story_keys": "- A salesman pushes too much for a sale\n- The salesman ends up dying as a result",
+  "answer_keys": "- The salesman sells bulletproof vests.\n- He put on a vest to prove its quality to a customer.\n- He insisted the customer shoot him to prove the vest's effectiveness.\n- The customer agreed and attempted to shoot him.\n- However, he missed and instead shot the salesman in the head.",
+  "likes": "83% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "A woman dies from a long telephone conversation."
+  ],
+  "answer": [
+    "She was just coming from the mechanic, where she picked up her car. The mechanic forgot to put on the brakes, and he was trying to call and tell her. But it was impossible because she was already talking on the phone with someone."
+  ],
+  "story_keys": "1. A woman dies during a long telephone conversation.",
+  "answer_keys": "1. The woman had just collected her car from the mechanic.\n2. The mechanic had forgotten to put on the brakes.\n3. The mechanic was trying to call her to let her know about the mistake.\n4. He couldn't reach her because she was already talking on the phone with someone else.",
+  "likes": "83% users",
+  "solving_time": "19 minutes",
+  "level": "7/10 Hard",
+  "date": "05 September 2022"
+}
+{
+  "story": [
+    "A young woman has her photo taken with her grandfather, but they have never met before, and neither of them is aware of their relationship."
+  ],
+  "answer": [
+    "The woman is a student in medical school. She has her photo taken with a human skeleton in the classroom, used for instruction. She does not know that the skeleton is that of her grandfather, who donated his body to science."
+  ],
+  "story_keys": "- A young woman is having her photo taken with her grandfather.\n- The woman and her grandfather have never met before.\n- Neither of them is aware of their familial relationship.",
+  "answer_keys": "1. The woman is a medical student.\n2. She has a photo with a human skeleton in the classroom.\n3. The skeleton is used for instruction.\n4. The skeleton is secretly her grandfather, who donated his body to science.\n5. The woman does not know the skeleton belongs to her grandfather.",
+  "likes": "83% users",
+  "solving_time": "16 minutes",
+  "level": "6/10 medium",
+  "date": "08 May 2023"
+}
+{
+  "story": [
+    "A cowboy rode into town on Friday, spent one night in town, and left on Friday. How do you account for this?"
+  ],
+  "answer": [
+    "His horse is named Friday."
+  ],
+  "story_keys": "- A cowboy arrived in town on Friday.\n- He spent one night in town.\n- He left on Friday. \n- The speaker is asking how this could be possible.",
+  "answer_keys": "['His horse is named Friday.']",
+  "likes": "83% users",
+  "solving_time": "4 minutes",
+  "level": "4/10 medium",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A car driver causes an accident when he crashes into a bike, as he was making an unexpected turn at a crossroad. When the policemen arrive, another man gets arrested. The one who was driving is carried home. "
+  ],
+  "answer": [
+    "The driver was receiving driving lessons and his instructor told him to make an incorrect turn at a crossroad, crashing into a bike. The policemen considered the driving instructor to be responsible for the accident so they arrested him and took the learner home. "
+  ],
+  "story_keys": "1. A car driver caused an accident by crashing into a bike while making an unexpected turn at a crossroad.\n2. Police arrived at the scene of the accident.\n3. Another man, not the car driver, was arrested by the police.\n4. The driver of the car was taken home.",
+  "answer_keys": "1. The driver was receiving driving lessons. \n2. His instructor advised him to make an incorrect turn at a crossroad.\n3. This advice led to a crash with a bike.\n4. The police held the driving instructor responsible for the accident.\n5. The instructor was arrested by the police.\n6. The learner driver was taken home by the police.",
+  "likes": "82% users",
+  "solving_time": "10 minutes",
+  "level": "5/10 medium",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "The son of a rich man was kidnapped. The kidnapper wanted the rich man to bring and put the expensive diamond into the call-box located in a city park. Policemen surrounded this park, intending to catch the criminal. The father of the kidnapped child came to the call-box and did everything the kidnapper said to him, but the police could not prevent the cunning criminal from taking the diamond out of the call-box. They didn't grab the villian as well. What did he do?"
+  ],
+  "answer": [
+    "This is a real history that happened in Taiwan. When the father came to the call-box, he found a postal pigeon in the cage. There was a note attached to him, in which it was said that the diamond should be put into a small pouch attached to the neck of the pigeon, and then he should let the pigeon out of the cage. When the rich man did this, the dove flew through the city to its dovecote, and the police could not follow it."
+  ],
+  "story_keys": "- The son of a rich man was kidnapped.\n- The kidnapper demanded a ransom of an expensive diamond.\n- The diamond was to be placed in a call-box in a city park.\n- The police surrounded the park planning to catch the criminal.\n- The rich man complied with the kidnapper's demands.\n- The kidnapper successfully got the diamond without being caught by police.",
+  "answer_keys": "1. The text refers to a historical event that occurred in Taiwan.\n2. A man found a postal pigeon in a cage at a call-box.\n3. The pigeon had a note attached asking the man to put a diamond in a small pouch around the pigeon's neck.\n4. The man complied with the instructions and released the pigeon.\n5. The pigeon returned to its dovecote in the city, evading police detection.",
+  "likes": "82% users",
+  "solving_time": "8 minutes",
+  "level": "5/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A man who was expecting to die in a few days dies sooner than he thought."
+  ],
+  "answer": [
+    "The man was really sick and he decided to donate his organs to a rich man. Since this rich man's son wanted to inherit his farther's fortune he poisoned the donor so that his organs became unable to work again in his father's body."
+  ],
+  "story_keys": "- A man expected to die in a few days.\n- The man dies sooner than he anticipated.",
+  "answer_keys": "1. The man was seriously ill and chose to donate his organs to a wealthy man.\n2. The rich man's son, hoping to inherit his father's wealth, poisoned the donor.\n3. The poisoning resulted in the donor's organs failing to function in the rich man's body.",
+  "likes": "82% users",
+  "solving_time": "23 minutes",
+  "level": "8/10 Hard",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A man is lying awake in bed. He makes a phone call, says nothing, and goes to sleep."
+  ],
+  "answer": [
+    "He is in a hotel and is unable to sleep because the man in the adjacent room is snoring. He calls the snorer up (at this hotel, like many others, the phone numbers are based on the room number). The snorer wakes up and answers. The first man hangs up without saying anything and goes to sleep before the snorer starts snoring again."
+  ],
+  "story_keys": "1. A man is awake in bed.\n2. He makes a phone call.\n3. On the phone call, he says nothing.\n4. The man goes to sleep after the call.",
+  "answer_keys": "- The man is in a hotel and can't sleep due to the snoring of the man in the adjacent room.\n- He wakes up the snorer by making a phone call, as hotel phone numbers are based on the room number.\n- He hangs up without speaking and manages to fall asleep before the snorer starts snoring again.",
+  "likes": "82% users",
+  "solving_time": "12 minutes",
+  "level": "5/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "When Liz was about to find out who killed Mario, she fell asleep. When she woke up she realized that she could no longer find it out."
+  ],
+  "answer": [
+    "Liz was reading a novel on the beach. The main character, Mario, had been killed and she was about to find out who had committed the crime. Before she found it out, she fell asleep with the book lying in the sand. When she woke up she saw that the tide had risen and the book had been washed away."
+  ],
+  "story_keys": "['Liz was close to discovering who killed Mario but fell asleep', 'Upon waking up, Liz could no longer determine who was responsible for Mario's death.']",
+  "answer_keys": "1. Liz was reading a novel on the beach.\n2. The main character in the novel, Mario, had been killed.\n3. Liz was about to find out who had committed the crime in the novel.\n4. Liz fell asleep before discovering who committed the crime.\n5. The book she was reading was left in the sand.\n6. The tide rose while Liz slept, washing the book away.",
+  "likes": "82% users",
+  "solving_time": "15 minutes",
+  "level": "5/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A man sitting on a park bench reads a newspaper article headlined \"Death at Sea\" and knows a murder has been committed."
+  ],
+  "answer": [
+    "The man is a travel agent. He had sold someone two tickets for an ocean voyage, one round-trip and one one-way. The last name of the man who bought the tickets is the same as the last name of the woman who \"fell\" overboard and drowned on the same voyage, which is the subject of the article he's reading. "
+  ],
+  "story_keys": "- A man is sitting on a park bench reading a newspaper.\n- The newspaper article he is reading is titled \"Death at Sea\".\n- The man interprets from the article that a murder has been committed.",
+  "answer_keys": "1. The man is a travel agent.\n2. He sold two tickets for an ocean voyage to someone.\n3. One of the tickets was round-trip, the other one-way.\n4. The last name of the man who bought the tickets matches with the last name of a woman who drowned on the voyage.\n5. The woman reportedly \"fell\" overboard during the same voyage.\n6. The travel agent is reading an article about the incident.",
+  "likes": "82% users",
+  "solving_time": "23 minutes",
+  "level": "8/10 Hard",
+  "date": "18 January 2022"
+}
+{
+  "story": [
+    "John was walking along the snow-covered field. When he came to a lonely tree, he saw the corpse of a man hanging on the tree. He died the last night from strangulation, but there were no traces around him, except John's ones. "
+  ],
+  "answer": [
+    "The hanged man was a skydiver. His parachute was entangled and caught on branches of the tree."
+  ],
+  "story_keys": "1. John was walking along a snow-covered field.\n2. He spotted a man's corpse hanging from a solitary tree.\n3. The man had died the previous night from strangulation. \n4. There were no traces around him, except for John's footprints.",
+  "answer_keys": "1. The hanged man was a skydiver.\n2. His parachute was entangled.\n3. The parachute was caught on tree branches.",
+  "likes": "81% users",
+  "solving_time": "7 minutes",
+  "level": "3/10 Easy",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "In the 1950s in America there was invented a chicken gun. What for? "
+  ],
+  "answer": [
+    "A chicken gun is a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Whole, dead, standard-size chickens, as would be used for cooking, are thought to accurately simulate a large, live bird striking a plane in flight."
+  ],
+  "story_keys": "- A chicken gun was invented in the 1950s in America.",
+  "answer_keys": "1. A chicken gun is a large compressed-air cannon that fires dead chickens at aircraft components.\n2. It simulates high-speed bird strikes during aircraft flight.\n3. The tests usually target jet engines and aircraft windshields, as they are vulnerable to such strikes.\n4. Whole, dead, standard-size chickens are used to accurately simulate a large, live bird striking a plane in flight.",
+  "likes": "81% users",
+  "solving_time": "22 minutes",
+  "level": "6/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A woman goes to the library, takes a book and cries out."
+  ],
+  "answer": [
+    "The woman was a writer and she had donated one of her books to the library. She had included a 50$ bill among the pages as a gift for the first person borrowing the book. After a year, she came back to the library, took the book and saw that the bill was still there. Realizing that no one had read her book she burst into tears."
+  ],
+  "story_keys": "- A woman goes to the library.\n- She takes a book.\n- The woman cries out.",
+  "answer_keys": "1. The woman is a writer and donates one of her books to the library.\n2. She includes a $50 bill as a hidden gift for the first person to borrow the book.\n3. One year later, the woman returns to the library and sees the $50 bill still there.\n4. The writer becomes upset realizing that no one has borrowed or read her book in a year.",
+  "likes": "81% users",
+  "solving_time": "17 minutes",
+  "level": "6/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A man was walking with a gold ring on his finger. Suddenly robbers attacked him. They wanted to take the ring but couldn\u2019t take it off. So, they cut off the finger and ran away. However, the man didn\u2019t even scream. Why?"
+  ],
+  "answer": [
+    "He had gold teeth, and he didn\u2019t want to show them, so that the robbers wouldn\u2019t take them too."
+  ],
+  "story_keys": "- A man was walking with a gold ring on his finger.\n- He was suddenly attacked by robbers.\n- The robbers aimed to steal the ring but couldn't remove it.\n- They ended up cutting off the finger to take the ring.\n- The man didn't scream even after his finger was cut. \n- The reason why the man didn't scream is not revealed.",
+  "answer_keys": "- The person has gold teeth.\n- He is hiding his gold teeth to prevent them from being stolen by robbers.",
+  "likes": "81% users",
+  "solving_time": "8 minutes",
+  "level": "5/10 medium",
+  "date": "11 May 2020"
+}
+{
+  "story": [
+    "While he was in the forest, a wild beast bit off his nose. But he died only 3 months later."
+  ],
+  "answer": [
+    "It was a snowman. A hare bit off its carrot nose, but it melted only in April."
+  ],
+  "story_keys": "1. A man was in the forest where a wild beast bit off his nose.\n2. The man died 3 months after the incident.",
+  "answer_keys": "1. The subject in question is a snowman.\n2. A hare bit off the snowman's carrot nose.\n3. The snowman melted in April.",
+  "likes": "81% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "18 March 2021"
+}
+{
+  "story": [
+    "Tony ran out of the building, carrying two bags. Another man ran after him, shouting and waving knives."
+  ],
+  "answer": [
+    "Tony was shopping in the store, he spent a lot of money, so the shop workers decided to give him a gift: a set of kitchen knives. Tony was in a hurry so he ran to his car, forgetting about it. The worker noticed this and ran after Tony to give him the gift. "
+  ],
+  "story_keys": "1. Tony ran out of a building carrying two bags.\n2. Another man chased Tony, shouting and waving knives.",
+  "answer_keys": "- Tony was shopping in the store and spent a lot of money.\n- The shop workers decided to give Tony a gift, which was a set of kitchen knives.\n- In a hurry, Tony forgot about the gift and ran to his car.\n- A shop worker noticed Tony's forgetfulness and ran after him to give him the gift.",
+  "likes": "80% users",
+  "solving_time": "8 minutes",
+  "level": "3/10 Easy",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "Before going to bed, the woman hides her shoe in the safe. What for?"
+  ],
+  "answer": [
+    "This woman works as a stewardess on an airplane. In the hotel before going to bed she puts her documents in the safe, and to not forget them in the morning, she puts one of her shoes along with the documents."
+  ],
+  "story_keys": "- The woman hides her shoe in the safe before going to bed.",
+  "answer_keys": "- The woman works as a stewardess on an airplane.\n- She puts her documents in the safe at the hotel before going to bed.\n- To remember her documents, she puts one of her shoes along with them in the safe.",
+  "likes": "80% users",
+  "solving_time": "14 minutes",
+  "level": "7/10 Hard",
+  "date": "23 January 2018"
+}
+{
+  "story": [
+    "He died because he mixed up the colors. "
+  ],
+  "answer": [
+    "In Thailand if some snake bites you, doctor has to identify the snake's species in order to choose the right antidote. The tourist usually can not identify it, so doctor asks him/her what color the snake was, and using this information specialist defines snake's species. The man was colorblind, therefore he received a wrong antidote."
+  ],
+  "story_keys": "Someone died due to mixing up the colors.",
+  "answer_keys": "1. In Thailand, snakebite treatment requires identifying the snake species.\n2. Tourists usually can't identify the snake species.\n3. Doctors use the color of the snake to help identify the species.\n4. A man, who was colorblind, was given the wrong antidote as he couldn't correctly describe the snake color.",
+  "likes": "80% users",
+  "solving_time": "15 minutes",
+  "level": "6/10 medium",
+  "date": "27 January 2018"
+}
+{
+  "story": [
+    "Michael applaused, and everyone in the room (except him) died. What happened? "
+  ],
+  "answer": [
+    "Michael was killing mosquitoes. "
+  ],
+  "story_keys": "- Michael applauded.\n- Everyone in the room died except Michael.\n- The text seeks an explanation for the situation.",
+  "answer_keys": "['Michael was killing mosquitoes.']",
+  "likes": "80% users",
+  "solving_time": "11 minutes",
+  "level": "3/10 Easy",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "Visitors to a scenic mountain village were often amused by the village idiot. When offered a choice between a shiny 50-cent piece and a crumpled $5 bill, he would always happily choose the half-dollar. The bill was worth ten times as much, so why did he never choose it?"
+  ],
+  "answer": [
+    "The so-called village idiot was smart enough to realize that as long as he kept choosing a 50-cent piece, people would keep offering him the choice. If he took the $5 bill once, the stream of coins would stop rolling in."
+  ],
+  "story_keys": "- Visitors to a scenic mountain village found amusement in the village idiot's behavior.\n- The village idiot consistently chose a shiny 50-cent piece over a crumpled $5 bill, even though the latter was worth ten times more.",
+  "answer_keys": "The village idiot wisely understood that continuously choosing a 50-cent piece over a $5 bill would ensure people continue offering him a choice, whereas taking the $5 bill even once would end the offerings.",
+  "likes": "80% users",
+  "solving_time": "6 minutes",
+  "level": "3/10 Easy",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A woman is looking through the window and sees a man with a knife. However, she does not have enough time to call the police before being murdered."
+  ],
+  "answer": [
+    "What the woman really saw was the reflection of the murderer, who was already inside her house, behind her."
+  ],
+  "story_keys": "1. A woman is looking through a window.\n2. She sees a man with a knife.\n3. She doesn't have enough time to call the police.\n4. She is murdered.",
+  "answer_keys": "- The woman saw the reflection of the murderer.\n- The murderer was already inside her house.\n- The murderer was behind her.",
+  "likes": "80% users",
+  "solving_time": "6 minutes",
+  "level": "3/10 Easy",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A man was furious, when he realized that he can hear better without hearing aid that he was using the last 20 years. He went to his doctor to complain but the specialist became even more furious than him."
+  ],
+  "answer": [
+    "The man was wearing the hearing aid on his healthy ear."
+  ],
+  "story_keys": "1. A man discovered he could hear better without his hearing aid.\n2. The hearing aid had been in use for the past 20 years.\n3. The man went to complain to his doctor about this.\n4. The doctor became more furious than the man.",
+  "answer_keys": "- The man wore a hearing aid on his healthy ear.",
+  "likes": "80% users",
+  "solving_time": "3 minutes",
+  "level": "3/10 Easy",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "An exotic dancer goes on a date for a private session with a man. In the room where they are, she takes her shirt and bra off. The man approaches, watches her breasts and smiles. Soon after, she dresses herself up, pays the man and leaves."
+  ],
+  "answer": [
+    "The woman had undergone a breast augmentation surgery a few days earlier and she had arranged an appointment with her private doctor to review the result of the operation. The man saw that everything was perfect and that he had done a great job. Finally the woman paid the bill and left the clinic."
+  ],
+  "story_keys": "1. An exotic dancer goes on a private date with a man.\n2. She removes her shirt and bra in the room they are in.\n3. The man observes her breasts and smiles.\n4. She then gets dressed, pays the man and leaves.",
+  "answer_keys": "1. The woman had breast augmentation surgery a few days earlier.\n2. She arranged a following appointment with her private doctor to review the operation results.\n3. The doctor determined that the surgery had been successful.\n4. The woman paid for her medical treatment and left the clinic.",
+  "likes": "80% users",
+  "solving_time": "7 minutes",
+  "level": "2/10 Easy",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "Sherlock Holmes was walking down the corridor. Suddenly he heard a woman screaming, \u201cPlease, John, don\u2019t kill me!\u201d A shot rang. Holmes burst into the room. In one corner lay a dead woman and a gun. In another corner stood a postman, a lawyer, and an accountant. Sherlock looked at them, approached the postman, and grabbed him: \u201cI will arrest you for killing this woman.\u201d It was really the postman who killed this woman, but how could Holmes know it?"
+  ],
+  "answer": [
+    "The postman was the only man. The lawyer and the accountant were women."
+  ],
+  "story_keys": "1. Sherlock Holmes heard a woman scream for help from John before he heard a gunshot.\n2. He found a dead woman with a gun in one corner and a postman, lawyer, and an accountant in another corner of the room. \n3. Holmes immediately accused the postman of killing the woman. \n4. It's unclear how Holmes knew the postman was the killer.",
+  "answer_keys": "1. The postman was the only male among the three individuals mentioned.\n2. The lawyer and the accountant were both women.",
+  "likes": "80% users",
+  "solving_time": "8 minutes",
+  "level": "4/10 medium",
+  "date": "11 February 2020"
+}
+{
+  "story": [
+    "Five pieces of coal, a carrot and a scarf are lying on the lawn. Nobody put them on the lawn but there is a perfectly logical reason why they should be there. What is it?"
+  ],
+  "answer": [
+    "They were used by children who made a snowman. The snow has now melted."
+  ],
+  "story_keys": "- Five pieces of coal, a carrot, and a scarf are lying on a lawn.\n- Nobody placed them there.\n- There is a logical reason for their presence.",
+  "answer_keys": "- Children used them to make a snowman.\n- The snow has now melted.",
+  "likes": "80% users",
+  "solving_time": "1 minute",
+  "level": "2/10 Easy",
+  "date": "03 September 2022"
+}
+{
+  "story": [
+    "Bill died and went to heaven. There he saw thousands of people, who all were naked. He was looking around hoping to find someone he knew. And then he saw Adam and Eve."
+  ],
+  "answer": [
+    "Adam and Eve were the only ones who didn\u2019t have belly-buttons."
+  ],
+  "story_keys": "1. Bill dies and goes to heaven.\n2. In heaven, he sees thousands of naked people. \n3. He begins searching for someone he knows among the crowd. \n4. Eventually, he spots Adam and Eve.",
+  "answer_keys": "- Adam and Eve didn't have belly-buttons according to the sentence.",
+  "likes": "80% users",
+  "solving_time": "9 minutes",
+  "level": "6/10 medium",
+  "date": "03 September 2022"
+}
+{
+  "story": [
+    "A couple enters a grand ballroom only to find the occupants are dead. There has been no crime committed. The couple is not concerned by what they have found. How is this possible?"
+  ],
+  "answer": [
+    "The couple is scuba diving on a sunken cruise ship. The occupants in the ballroom had drowned when the ship sank suddenly in a terrible disaster at sea."
+  ],
+  "story_keys": "- A couple enters a grand ballroom and finds the occupants are dead.\n- No crime has been committed.\n- The couple is not concerned by what they have found.",
+  "answer_keys": "1. The couple is scuba diving on a sunken cruise ship.\n2. The occupants in the ballroom had drowned when the ship sank.\n3. The ship sank suddenly in a terrible disaster at sea.",
+  "likes": "80% users",
+  "solving_time": "7 minutes",
+  "level": "3/10 Easy",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A man and a woman got married. After the wedding they abandoned all their activities, that were bringing them money, and only had fun. As a result, in three years they became millionaires."
+  ],
+  "answer": [
+    "Before the wedding, they were billionaires. Therefore during these three years they spent a lot of money and as a result became millionaires."
+  ],
+  "story_keys": "-A man and woman got married. \n-They stopped their money-making activities post-wedding. \n-They focused on enjoying themselves. \n-In three years, they became millionaires.",
+  "answer_keys": "- The individuals were billionaires before the wedding.\n- They spent a lot of money over the course of three years.\n- As a result of their spending, they became millionaires.",
+  "likes": "79% users",
+  "solving_time": "5 minutes",
+  "level": "4/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "Roger sees the light and he becomes paralyzed. Soon after that he dies."
+  ],
+  "answer": [
+    "Roger was a rabbit that escaped from the house where he lived. He was crossing the road at night when the lights of a car blinded him. The driver did not see him and ran him over."
+  ],
+  "story_keys": "1. Roger sees a light.\n2. The light induces paralysis in Roger.\n3. Not long after, Roger dies.",
+  "answer_keys": "- Roger is a rabbit that lives in a house.\n- Roger escaped from the house.\n- He was crossing the road at night.\n- The lights of a car blinded him.\n- The driver did not see him.\n- The driver of the car ran him over.",
+  "likes": "79% users",
+  "solving_time": "8 minutes",
+  "level": "2/10 Easy",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "If the wind hadn't blown so strongly that night, Angela would still be alive. "
+  ],
+  "answer": [
+    "As it was windy, Angela decided to go to a field to fly her kite. At twilight, she could not see the nearby transmission tower. When her kite got tangled in the cables and she tried to untangle them, she was electrocuted. "
+  ],
+  "story_keys": "The key point is: The strong wind on a particular night led to Angela's death.",
+  "answer_keys": "- It was windy so Angela decided to fly her kite in a field.\n- She didn't see a nearby transmission tower due to twilight.\n- Her kite got tangled in the tower's cables.\n- She got electrocuted when she tried to untangle the kite.",
+  "likes": "79% users",
+  "solving_time": "12 minutes",
+  "level": "5/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A man kills his brother in front of a crowd of people. However, no one reports him."
+  ],
+  "answer": [
+    "The man worked as executioner and his brother had been sentenced to death."
+  ],
+  "story_keys": "1. A man kills his brother publicly.\n2. Despite the presence of a crowd, nobody reports the crime.",
+  "answer_keys": "1. The man is employed as an executioner.\n2. His brother has been sentenced to death.",
+  "likes": "79% users",
+  "solving_time": "6 minutes",
+  "level": "3/10 Easy",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "An avid birdwatcher sees an unexpected bird. Soon he\u2019s dead. How come?"
+  ],
+  "answer": [
+    "He is a passenger in an airplane and sees the bird get sucked into an engine at 20,000 feet."
+  ],
+  "story_keys": "1. The person is an avid birdwatcher.\n2. He sees an unexpected bird. \n3. Shortly after, he dies.\n4. The cause of his death is not known.",
+  "answer_keys": "- The individual is a passenger in an airplane.\n- The person witnesses a bird getting sucked into the airplane's engine.\n- This incident happens at 20,000 feet.",
+  "likes": "79% users",
+  "solving_time": "7 minutes",
+  "level": "4/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "Paul goes diving. How could he know he would be burnt to a crisp?"
+  ],
+  "answer": [
+    "He was scuba diving when a firefighting plane landed nearby and filled its tanks with water, sucking him in. He ran out of air while the plane was in flight; then the water, with him in it, was dumped onto a burning forest."
+  ],
+  "story_keys": "- Paul goes diving.\n- He unexpectedly gets severely burnt.",
+  "answer_keys": "- The person was scuba diving when a firefighting plane landed nearby.\n- The firefighting plane filled its tanks with water, accidentally sucking the diver in.\n- The person ran out of air while the plane was in flight.\n- The water, containing the diver, was dumped onto a burning forest.",
+  "likes": "79% users",
+  "solving_time": "13 minutes",
+  "level": "7/10 Hard",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "She thought that it was the best day of her life moments before she died."
+  ],
+  "answer": [
+    "At the end of a theather play, the lead actress appeared and the audience began to applaud. At that time there was a failure with the scenery and it started to collapse on stage. The oublic rose from their seats screaming, trying to warn the actress but she thought it was a standing ovation and she was crushed. "
+  ],
+  "story_keys": "- The woman believed she was experiencing the best day of her life before her death.",
+  "answer_keys": "- The lead actress appeared at the end of a theater play and the audience applauded.\n- Suddenly, the stage scenery started to collapse.\n- The audience, trying to warn the actress, rose from their seats screaming. \n- The actress, misunderstanding the crowd's reaction, thought it was a standing ovation.\n- The actress was crushed by the falling scenery.",
+  "likes": "79% users",
+  "solving_time": "17 minutes",
+  "level": "6/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A man is driving his car while listening to the radio when suddenly the radio goes silent. He then decides to leave the road and throw himself off the top of a cliff."
+  ],
+  "answer": [
+    "The man was a radio broadcaster who had commited a murder. He had left a recorded radio broadcast live as an alibi. Realizing that the program he had prepared had stopped airing accidentally and that they would know that he was the culprit, he decided to end his life."
+  ],
+  "story_keys": "- A man is driving his car and listening to the radio.\n- Suddenly, the radio goes silent. \n- The man decides to leave the road. \n- He throws himself off the top of a cliff.",
+  "answer_keys": "1. The man was a radio broadcaster involved in a murder case.\n2. He used a recorded live broadcast as his alibi.\n3. The broadcast accidentally stopped airing which threatened to expose him as the murderer.\n4. Knowing he would be identified as the culprit, he decided to commit suicide.",
+  "likes": "79% users",
+  "solving_time": "18 minutes",
+  "level": "8/10 Hard",
+  "date": "20 December 2021"
+}
+{
+  "story": [
+    "A man jumped out of plane. And he survived."
+  ],
+  "answer": [
+    "The plane wasn't flying."
+  ],
+  "story_keys": "1. A man jumped out of a plane.\n2. He survived the jump.",
+  "answer_keys": "The plane was not in flight.",
+  "likes": "78% users",
+  "solving_time": "1 minute",
+  "level": "1/10 Easy",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "Jack goes on a trip with his compass. After a long walk, he stops to eat a sandwich. He is not able to find his way back afterwards.  "
+  ],
+  "answer": [
+    "Jack was a scientist who worked near the North Pole. When he went walking, he walked towards the north and he stopped to eat his sandwich exactly at the North Pole. When he tried to return home, his compass was useless, since every direction pointed South."
+  ],
+  "story_keys": "- Jack goes on a trip with his compass.\n- He stops to eat a sandwich after a long walk.\n- Jack is unable to find his way back afterwards.",
+  "answer_keys": "1. Jack is a scientist who works near the North Pole.\n2. He walks towards the north for leisure.\n3. Jack stopped to eat his sandwich exactly at the North Pole.\n4. When trying to return home, his compass became useless as all directions pointed south.",
+  "likes": "78% users",
+  "solving_time": "12 minutes",
+  "level": "4/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "One day a man received a parcel in the post. Carefully packed inside was a human arm. He examined it, repacked it and then sent it on to another man. The second man also carefully examined the arm before taking it to the woods and burying it. Why did they do this?"
+  ],
+  "answer": [
+    "The three men had been stranded on a desert island. Desperate for food, they had agreed to amputate their left arms in order to eat them. They swore an oath that each would have his left arm cut off. One of them was a doctor and he cut the arms off his two companions. They were then rescued. But his oath was still binding so he later had to have his arm amputated and sent to his colleagues. "
+  ],
+  "story_keys": "1. A man received a parcel in the post which had a human arm inside.\n2. The man examined the arm, repacked it and sent it to another man.\n3. The second man also examined the arm.\n4. The second man then took the arm to the woods and buried it.\n5. The reason behind their actions is unknown.",
+  "answer_keys": "- Three men were stranded on a desert island.\n- They agreed to amputate their left arms for food.\n- They swore an oath to follow this plan.\n- One of the men was a doctor who cut off the arms of his companions.\n- They were later rescued.\n- The doctor had to have his arm amputated due to the oath, even after rescue. \n- The doctor's amputated arm was sent to his colleagues.",
+  "likes": "78% users",
+  "solving_time": "28 minutes",
+  "level": "9/10 Hard",
+  "date": "05 August 2019"
+}
+{
+  "story": [
+    "Every day he puts on green lipstick. But almost no one notices it."
+  ],
+  "answer": [
+    "In the 20th century the television was still black and white, and cameras had red filters, which absorbed red color of the image, i.e., red lipstick couldn\u2019t be seen on the lips. Therefore, TV broadcasters had to make up their lips with green lipstick to make them look more expressive."
+  ],
+  "story_keys": "1. A man wears green lipstick daily.\n2. Almost nobody notices his green lipstick.",
+  "answer_keys": "- In the 20th century, televisions were still black and white.\n- Cameras of that time had red filters that absorbed the red color in images.\n- Due to the absorption of red color, red lipstick wasn't visible on TV.\n- TV broadcasters used green lipstick to make lips look more expressive.",
+  "likes": "78% users",
+  "solving_time": "21 minutes",
+  "level": "5/10 medium",
+  "date": "25 August 2019"
+}
+{
+  "story": [
+    "A woman misread something and never saw another person again."
+  ],
+  "answer": [
+    "The woman was a scientist working in a laboratory. She accidentally misread a bottle label before adding the chemical to another. The mixture exploded, blinding her permanently. She could never see another person, or anything at all ever again."
+  ],
+  "story_keys": "- A woman made a reading mistake.\n- After the mistake, she never saw another person again.",
+  "answer_keys": "- The woman was a scientist working in a laboratory.\n- She misread a bottle label and added the wrong chemical to a mixture.\n- The mixture exploded, causing permanent blindness.\n- She cannot see anything or anyone ever again as a result.",
+  "likes": "78% users",
+  "solving_time": "6 minutes",
+  "level": "4/10 medium",
+  "date": "16 January 2022"
+}
+{
+  "story": [
+    "A man lets go of a bowling ball. A short while later, he is rushed to the hospital."
+  ],
+  "answer": [
+    "A physics professor is demonstrating conservation of energy by suspending a bowling ball from a piece of rope. He pulls the ball back until it's right in front of his nose, then lets go. It is supposed to swing away from him, then back at him, stopping just in front of his nose. Unfortunately, he gave the ball a slight push, resulting in the ball crashing into his nose upon its return."
+  ],
+  "story_keys": "1. A man releases a bowling ball.\n2. The same man is rushed to the hospital shortly afterward.",
+  "answer_keys": "- A physics professor is demonstrating conservation of energy using a suspended bowling ball.\n- The ball is supposed to swing away from, and back to him, stopping by his nose.\n- The professor gives the ball a slight push.\n- This causes the ball to crash into his nose on its return.",
+  "likes": "78% users",
+  "solving_time": "32 minutes",
+  "level": "7/10 Hard",
+  "date": "18 January 2022"
+}
+{
+  "story": [
+    "Three dead men sitting at a table in a room. On the table, there are playing cards and a gun. What happened?"
+  ],
+  "answer": [],
+  "story_keys": "1. Three men are dead, sitting at a table in a room.\n2. There are playing cards and a gun on the table.\n3. The events leading to this situation are unknown.",
+  "answer_keys": "You didn't provide any sentence to analyze. Please provide a sentence.",
+  "likes": "78% users",
+  "solving_time": "22 minutes",
+  "level": "6/10 medium",
+  "date": "03 February 2022"
+}
+{
+  "story": [],
+  "answer": [],
+  "story_keys": "You haven't provided any sentence for analysis. Please provide a sentence so we can list its key point.",
+  "answer_keys": "Sorry, I can't list the key points, as there isn't any sentence provided. Please resubmit your query with a sentence.",
+  "likes": "78% users",
+  "solving_time": "33 minutes",
+  "level": "8/10 Hard",
+  "date": "27 March 2022"
+}
+{
+  "story": [
+    "Bill was late for a birthday party and ended up in prison because of it. What happened?"
+  ],
+  "answer": [
+    "It was a priest\u2019s birthday. When giving his toast, he said that the first person who confessed to him was a murderer. "
+  ],
+  "story_keys": "- Bill was late for a birthday party.\n- Bill ended up in prison as a result of being late.",
+  "answer_keys": "- It was a priest's birthday.\n- During his toast, the priest revealed that a murderer was the first person who confessed to him.",
+  "likes": "78% users",
+  "solving_time": "31 minutes",
+  "level": "8/10 Hard",
+  "date": "17 April 2022"
+}
+{
+  "story": [
+    "A man, who was examining some school, noticed that any time a teacher was asking a question, lots of pupils were ready to answer. Moreover, every time the teacher was choosing another person and the answer was always right."
+  ],
+  "answer": [
+    "The teacher told pupils to raise up their hands no matter what question would be asked. But if they khew the answer, they should raise the right hand, otherwise - the left one. Therefore the teacher could choose among the pupils who knew the answer. "
+  ],
+  "story_keys": "1. A man was observing a school.\n2. He noted that many pupils were always ready to answer whenever a teacher asked a question.\n3. The teacher consistently chose different pupils to answer.\n4. The answers provided by the pupils were always correct.",
+  "answer_keys": "- The teacher instructed students to raise their hands for every question asked.\n- If students knew the answer, they should raise their right hand.\n- If they didn't know the answer, they should raise their left hand.\n- This system allowed the teacher to choose from students who knew the answer.",
+  "likes": "77% users",
+  "solving_time": "8 minutes",
+  "level": "5/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "In some city an amount of people injured in car accidents was very high. Then it was decided by administration to make the using of seat belts oblidatory. People started to obey this rule. But the amount of crash accidents remained the same. Moreover, the number of injured people who addressed to the hospital even increased. "
+  ],
+  "answer": [
+    "The adopted law decreased the number of accidents. A lot of people who would die without seat belt stayed alive but got injured and therefore they went to the hospital. So the number of patients increased. "
+  ],
+  "story_keys": "1. A lot of people were being injured in car accidents in a certain city. \n2. The city administration decided to make the use of seat belts mandatory. \n3. The citizens started complying with the new seat belt rule. \n4. However, the number of car accidents did not reduce. \n5. The number of accident-related injuries reported at the hospital even increased.",
+  "answer_keys": "1. A new law was adopted which decreased the number of accidents.\n2. This law seemingly increased seat belt usage, resulting in fewer fatalities but increased injuries.\n3. As a consequence, the number of hospital patients increased.",
+  "likes": "77% users",
+  "solving_time": "6 minutes",
+  "level": "4/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A woman asks a driver to take her home. The whole way she talks, too much. The taxist tells her: \"I'm sorry but I am deaf.\" The woman falls silent. But when she goes out of the taxi, she understands that the driver isn't deaf."
+  ],
+  "answer": [
+    "The taxist have heard and understood where her house was."
+  ],
+  "story_keys": "1. A woman asks a driver to drive her home.\n2. Throughout the ride, she talks excessively.\n3. The taxi driver tells her that he's deaf.\n4. The woman stops talking after the driver's revelation.\n5. Upon exiting the taxi, she realizes that the driver isn't deaf.",
+  "answer_keys": "- The taxi driver has heard and understood the location of the woman's house.",
+  "likes": "77% users",
+  "solving_time": "8 minutes",
+  "level": "2/10 Easy",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A couple of dancers die around a dance competition."
+  ],
+  "answer": [
+    "During a tango competition, another - very competitive - couple poisoned the rose that another couple passed each other during their routine, so that the couple would die. The poisoned rose killed this couple and the others won the contest."
+  ],
+  "story_keys": "- A couple of dancers die during a dance competition.",
+  "answer_keys": "1. A tango competition was taking place.\n2. A highly competitive couple poisoned a rose used by another couple in their routine.\n3. The intention of the poisonous act was death for the couple using the rose.\n4. The couple using the poisoned rose died.\n5. The couple that poisoned the rose won the contest.",
+  "likes": "77% users",
+  "solving_time": "5 minutes",
+  "level": "5/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "Michael is in prison. One day, he has luch, goes to prison courtyard for a while and finally visits the library. At dusk, out of the reach of the security cameras, he changes his clothes. He then goes through the door to leave the prison, without being caught."
+  ],
+  "answer": [
+    "Michael worked as a guard in the prison."
+  ],
+  "story_keys": "- Michael is in prison.\n- He has lunch, spends time in the courtyard, and visits the library in a typical day.\n- He changes his clothes out of sight of the security cameras at dusk.\n- Michael successfully leaves the prison without being caught.",
+  "answer_keys": "['Michael', 'worked as a guard', 'in the prison']",
+  "likes": "76% users",
+  "solving_time": "6 minutes",
+  "level": "1/10 Easy",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "The Venezuelan police made a few attempts to arrest a well-known bandit. They knew where he lived. From time to time they got the arrest warrant and approached his house. When they entered the house, he locked in the bedroom. The police had nothing to do but to leave empty-handed."
+  ],
+  "answer": [
+    "His house was on the border between Venezuela and Colombia. Although the front door and half of the house were on the territory of Venezuela, the bedroom was located on the territory of Colombia. The Venezuelan police had no jurisdiction in Colombia, so the police couldn't arrest him while he was in the bedroom."
+  ],
+  "story_keys": "-The Venezuelan police repeatedly tried to arrest a well-known bandit.\n-They knew where the bandit lived and occasionally obtained an arrest warrant to approach his house. \n-Each time they entered the house, the bandit would lock himself in the bedroom, forcing the police to leave empty-handed.",
+  "answer_keys": "1. The man's house is located on the border between Venezuela and Colombia.\n2. Half of the house, including the front door, is on the Venezuelan side, while the bedroom lies within Colombian territory.\n3. The Venezuelan police do not have the authority to operate in Colombia.\n4. The police cannot arrest the man when he is in his bedroom because it is situated in Colombia.",
+  "likes": "76% users",
+  "solving_time": "7 minutes",
+  "level": "5/10 medium",
+  "date": "20 July 2019"
+}
+{
+  "story": [
+    "A hospital director recently confirmed that many that many of people admitted to his hospital were not ill at all. They were perfectly healthy, yet were given hospital care and treatment. "
+  ],
+  "answer": [
+    "The hospital was a maternity hospital and all those admitted were pregnant women."
+  ],
+  "story_keys": "- A hospital director confirmed that many people admitted to his hospital were not actually ill.\n- Despite being healthy, these individuals were given hospital care and treatment.",
+  "answer_keys": "- The hospital was specifically a maternity hospital.\n- All the admitted patients were pregnant women.",
+  "likes": "76% users",
+  "solving_time": "10 minutes",
+  "level": "4/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A man woke up, lit a match and saw something that frightened him to death."
+  ],
+  "answer": [
+    "This man was a prisoner. He wanted to escape and asked the mortician to do something for him. When somebody in prison would die, the prisoner would hide in the coffin and would be buried along with the corpse outside the territory of prison. And after some time he would be released by this mortician. "
+  ],
+  "story_keys": "1. A man woke up.\n2. He lit a match.\n3. He saw something frightful.\n4. The fright caused him to death.",
+  "answer_keys": "1. The man is a prisoner wanting to escape.\n2. He asks a mortician for help in escaping.\n3. His plan is to hide in a coffin with a deceased prisoner and be buried outside prison grounds.\n4. The mortician's role is to release him after he's been buried.",
+  "likes": "76% users",
+  "solving_time": "26 minutes",
+  "level": "8/10 Hard",
+  "date": "10 February 2018"
+}
+{
+  "story": [],
+  "answer": [
+    "This story was told by a train operator that hit a woman who suddenly jumped out onto the railway."
+  ],
+  "story_keys": "As there is no sentence provided, I cannot list the key points. Please provide a phrase or sentence so I can assist you better.",
+  "answer_keys": "- The story was recounted by a train operator.\n- The operator hit a woman who unexpectedly jumped onto the railway.",
+  "likes": "76% users",
+  "solving_time": "5 minutes",
+  "level": "2/10 Easy",
+  "date": "10 August 2019"
+}
+{
+  "story": [
+    "Sally was sleeping when she was awoken by Jack. She walked to the door and found a letter. She read it and began to cry. She now knew that her boyfriend would never see her again. Why?"
+  ],
+  "answer": [
+    "Sally's boyfriend had recently undgone eye surgery. Jack, her boyfriend's guide-dog, awoke her after the postman had delivered a letter. The letter was from the doctor's. The letter was in response to her boyfriends medical tests that confirmed the surgery was unsuccesful and he would now be fully blind."
+  ],
+  "story_keys": "1. Sally was sleeping when disturbed by Jack.\n2. Sally found a letter at the door.\n3. Sally read the letter and started crying.\n4. The letter revealed that her boyfriend would never see her again.",
+  "answer_keys": "1. Sally's boyfriend recently had eye surgery.\n2. Jack, her boyfriend's guide-dog, woke her up after a letter was delivered.\n3. The letter was from the doctor's.\n4. The letter was about her boyfriend's medical tests.\n5. The tests confirmed that the surgery was unsuccessful.\n6. As a result, her boyfriend would now be fully blind.",
+  "likes": "76% users",
+  "solving_time": "12 minutes",
+  "level": "4/10 medium",
+  "date": "18 March 2021"
+}
+{
+  "story": [
+    "A man goes into a restaurant, orders albatross, eats one bite, and kills himself. Why? "
+  ],
+  "answer": [
+    "The man was in a ship that was wrecked on a desert island. When there was no food left, another passenger brought what he said was albatross but was really part of the man's wife (who had died in the wreck). The man suspects something fishy, so when they finally return to civilization, he orders albatross , realizes that what he ate before was his wife, and kills himself."
+  ],
+  "story_keys": "1. A man enters a restaurant.\n2. He orders albatross.\n3. He eats one bite of it.\n4. The man then kills himself. \n5. The reason behind his action is being questioned.",
+  "answer_keys": "1. Man survives shipwreck on a desert island.\n2. Another passenger provides food, claiming it to be albatross, but it is actually part of the man's deceased wife.\n3. The man suspects foul play.\n4. Upon returning to civilization, he orders albatross, discovers he ate his wife on the island, and commits suicide.",
+  "likes": "75% users",
+  "solving_time": "28 minutes",
+  "level": "9/10 Hard",
+  "date": "05 January 2018"
+}
+{
+  "story": [
+    "Andrew decided to spend the evening with his family. He bought tickets for the whole family, but his ticket cost him his life."
+  ],
+  "answer": [
+    "Andrew took his family to the zoo. He found the tickets too expensive. So, he decided not to buy a ticket for himself. He climbed over the wall but got into a cage with a lion. When he realized what happened, it was too late."
+  ],
+  "story_keys": "1. Andrew chose to spend time with his family.\n2. He purchased tickets for everyone in the family.\n3. His ticket purchase indirectly led to his death.",
+  "answer_keys": "1. Andrew took his family to the zoo.\n2. He found the tickets too expensive.\n3. Andrew decided not to buy a ticket for himself.\n4. Instead of buying a ticket, Andrew climbed over the zoo wall.\n5. In doing so, he ended up in a lion's cage.\n6. When Andrew realized where he was, it was too late.",
+  "likes": "75% users",
+  "solving_time": "14 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2023"
+}
+{
+  "story": [
+    "A man dies of thirst at home. How could it happen?"
+  ],
+  "answer": [
+    "The man\u2019s home was a yacht, in which he was travelling around the world. While sailing in the ocean, he ran out of fresh water much faster than he expected."
+  ],
+  "story_keys": "1. A man died from thirst.\n2. The incident occurred at his home.\n3. The cause of his dehydration or inability to drink water is unknown, raising questions.",
+  "answer_keys": "['The man is travelling around the world in a yacht as his home.', 'He ran out of fresh water faster than expected while sailing in the ocean.']",
+  "likes": "75% users",
+  "solving_time": "10 minutes",
+  "level": "5/10 medium",
+  "date": "31 October 2023"
+}
+{
+  "story": [
+    "Students are taking an exam at military academy. One of them chooses a ticket and goes to his seat to get prepared. After some minutes he goes to the professor, silently gives him the student's record-book and leaves the classroom. The student got the excellent."
+  ],
+  "answer": [
+    "It was a morse code exam. During exam, the professor was tapping the message saying that any student may come up to him and get the excelllent."
+  ],
+  "story_keys": "- Students are taking an exam at a military academy.\n- One student chooses a ticket and prepares at his seat.\n- After some time, the student goes to the professor and submits his record-book. \n- The student then leaves the classroom. \n- The student receives an excellent grade.",
+  "answer_keys": "- The sentence is about a morse code exam.\n- The professor was tapping a message during the exam.\n- The message indicated that any student could approach him to get excellent marks.",
+  "likes": "75% users",
+  "solving_time": "16 minutes",
+  "level": "7/10 Hard",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "Jimmy hid a treasure but when he wanted to recover it, he was not able to."
+  ],
+  "answer": [
+    "Jimmy buried a treasure when he was 8 years old. He had written a note when he was younger with how many steps he would take to find his treasure. But now that he was grown up, his stride was much longer and he could never find his treasure."
+  ],
+  "story_keys": "- Jimmy hid a treasure.\n- He wanted to recover it later.\n- He was unable to recover the treasure.",
+  "answer_keys": "- Jimmy buried a treasure when he was 8 years old.\n- He had written a note as a child detailing the steps to find the treasure.\n- Now as an adult, his stride was much longer.\n- Because of his longer stride, Jimmy could not find the treasure.",
+  "likes": "75% users",
+  "solving_time": "20 minutes",
+  "level": "6/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "After careful planning, five men break into a house and take thousands of dollars in cash from it. The owner of the house is the only person arrested. "
+  ],
+  "answer": [
+    "The five men were policemen and they had an arrest warrant to enter a mobster's house and take all his money. After planning the assault, they arrested the house's owner."
+  ],
+  "story_keys": "1. Five men plan and execute a break into a house.\n2. They steal thousands of dollars in cash from the house.\n3. Despite the break-in, the owner of the house is the only individual arrested.",
+  "answer_keys": "1. Five men, who were policemen, had an arrest warrant for a mobster's house. \n2. Their warrant allowed them to confiscate all of the mobster's money. \n3. They planned their assault on the house.\n4. They successfully arrested the owner of the house.",
+  "likes": "75% users",
+  "solving_time": "13 minutes",
+  "level": "3/10 Easy",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "On a beautiful road, there\u2019s a bus stop that is fully operational. However, no public transport stops there. Why?"
+  ],
+  "answer": [],
+  "story_keys": "- There's a bus stop on a beautiful road.\n- The bus stop is fully operational.\n- Despite being operational, no public transport stops there.",
+  "answer_keys": "You didn't provide a sentence for me to analyze. Could you please provide one?",
+  "likes": "75% users",
+  "solving_time": "7 minutes",
+  "level": "7/10 Hard",
+  "date": "18 September 2019"
+}
+{
+  "story": [
+    "A man lies dead next to a feather. How did he die?"
+  ],
+  "answer": [
+    "The man was a sword swallower in a carnival side-show. While he was practicing, someone tickled his throat with the feather, causing him to gag."
+  ],
+  "story_keys": "1. A man is dead.\n2. He is lying next to a feather.\n3. The cause of his death is questioned.",
+  "answer_keys": "- The man was a sword swallower in a carnival side-show.\n- He was practicing his skill when someone tickled his throat with a feather.\n- The action of tickling made the man gag.",
+  "likes": "75% users",
+  "solving_time": "17 minutes",
+  "level": "7/10 Hard",
+  "date": "22 March 2021"
+}
+{
+  "story": [],
+  "answer": [
+    "A written exam. All but one student submitted the papers, but he kept writing after the time was up. Therefore, the professor refused to accept his paper. "
+  ],
+  "story_keys": "There seems to be a mistake, as no sentence has been provided for me to identify the key points. Could you please provide the details?",
+  "answer_keys": "- A written exam was conducted.\n- All students except one submitted their papers on time.\n- One student continued writing after the allotted time.\n- Because of the student's tardiness, the professor refused to accept his paper.",
+  "likes": "75% users",
+  "solving_time": "13 minutes",
+  "level": "8/10 Hard",
+  "date": "01 April 2021"
+}
+{
+  "story": [
+    "At one time, the following warning notices appeared on one of the main squares of Prague, \u201cAttention! Beware of pickpockets!\u201d The local police knew that there really were a lot of pickpockets here, but they actively tore these notices down. Why?"
+  ],
+  "answer": [
+    "There were a lot of tourists on this square. It was pickpockets who pasted up notices about themselves. This made their task easier. People who read the notices automatically wanted to check whether their valuables were intact. The thieves were watching them and understood where their target was."
+  ],
+  "story_keys": "- The main square in Prague once had warning notices about pickpockets.\n- The local police were aware of the high occurrence of pickpocketing in this area.\n- Despite this, the police actively removed these warning notices.",
+  "answer_keys": "- There were many tourists in a certain square.\n- Pickpockets posted notices about themselves in the square.\n- The notices caused people to instinctively check their valuables.\n- This helped the thieves identify who their potential targets were.",
+  "likes": "75% users",
+  "solving_time": "13 minutes",
+  "level": "8/10 Hard",
+  "date": "23 July 2022"
+}
+{
+  "story": [
+    "A deaf man came into a store to pick up flowers he ordered for his beloved wife. How did he explain that he needs to pick up the flowers that he ordered before?"
+  ],
+  "answer": [
+    "He just said it. He is deaf, but not mute."
+  ],
+  "story_keys": "- A deaf man went to a store to pick up flowers he previously ordered for his wife.",
+  "answer_keys": "1. The person is deaf.\n2. The person is not mute.\n3. Despite being deaf, the person has just communicated something.",
+  "likes": "75% users",
+  "solving_time": "5 minutes",
+  "level": "1/10 Easy",
+  "date": "18 January 2023"
+}
+{
+  "story": [
+    "A man is replacing a wheel on his car, when he accidentally drops the four nuts used to hold the wheel on the car, and they fall into a deep drain, irretrievably lost. A passing girl offers him a solution which enables him to drive home. What is it? (keep you mind out of the drain)"
+  ],
+  "answer": [
+    "Use one nut from each of the four other wheels."
+  ],
+  "story_keys": "1. A man is replacing a wheel on his car.\n2. He accidentally drops the four nuts used to hold the wheel on the car into a drain.\n3. The nuts are irretrievably lost.\n4. A passing girl offers a solution that allows the man to drive home. \n5. The question is what the girl's solution could be.",
+  "answer_keys": "- Use a nut from each of the four other wheels.",
+  "likes": "75% users",
+  "solving_time": "3 minutes",
+  "level": "2/10 Easy",
+  "date": "19 January 2023"
+}
+{
+  "story": [
+    "Everybody knew that if Julia took one step forward, she would die, but nobody told her."
+  ],
+  "answer": [
+    "Julia was a rat on which scientists were conducting an experiment. She was trapped in a labyrinth full of traps and was standing right in front of one."
+  ],
+  "story_keys": "1. Everybody was aware that Julia would die if she took one step forward.\n2. Despite this knowledge, nobody informed Julia of the danger.",
+  "answer_keys": "- Julia is a rat used for scientific experiments.\n- She is trapped in a labyrinth filled with traps.\n- Julia is standing right in front of one of the traps.",
+  "likes": "75% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "29 April 2023"
+}
+{
+  "story": [
+    "The sound of Brian\u2019s snoring is usually just annoying, but today it causes terror and panic. Why?"
+  ],
+  "answer": [
+    "Brian is a bus driver."
+  ],
+  "story_keys": "1. Brian usually snores and it is annoying.\n2. Today, Brian's snoring is causing terror and panic.\n3. The reason behind the change in reaction is questioned.",
+  "answer_keys": "- Brian's profession is a bus driver.",
+  "likes": "75% users",
+  "solving_time": "4 minutes",
+  "level": "3/10 Easy",
+  "date": "23 July 2023"
+}
+{
+  "story": [
+    "A man comes breathless out of a house, closes the door and goes quickly down stairs. Then he walks two blocks to get to another house, enters and breathes relieved. "
+  ],
+  "answer": [
+    "The man had just moved. He arrived to his new home with the last boxes and he breathed a sigh of relief because he had finished. "
+  ],
+  "story_keys": "- A man rushes out of a house and goes down the stairs.\n- He walks two blocks to reach another house.\n- He enters the second house and breathes a sigh of relief.",
+  "answer_keys": "- The man had just moved.\n- He arrived at his new home with the last boxes.\n- He breathed a sigh of relief because he had finished moving.",
+  "likes": "74% users",
+  "solving_time": "14 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "A woman - at work - is going downstairs, when suddenly there is a blackout. In that very moment she realizes that her husband is about to die. "
+  ],
+  "answer": [
+    "The woman worked as an electrician at a hospital and she knew that the emergency generators were broken. He husband had had a car crash and he was at that hospital, connected to a machine that kept him alive. When the blackout happened she knew that her husband couldn't be breathing by himself and therefore that he was dying. "
+  ],
+  "story_keys": "1. A woman is at work and is going downstairs.\n2. There is a sudden blackout.\n3. The woman has a realization that her husband is about to die.",
+  "answer_keys": "1. The woman worked as an electrician at a hospital.\n2. She knew that the emergency generators at the hospital were broken.\n3. Her husband had a car crash and was in the same hospital connected to a life-support machine.\n4. During a blackout, she realized her husband couldn't breathe on his own without the machine, hence he was dying.",
+  "likes": "73% users",
+  "solving_time": "5 minutes",
+  "level": "3/10 Easy",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "Paul comes home tired. He goes to his room and turns off the light to sleep. After a while, feeling uneasy, he turns on the light and looks around. He turns the light back off and tries to sleep again. After repeating this several times, he takes a look under his bed and finds a dead body."
+  ],
+  "answer": [
+    "A thief was stealing from Paul's home. When Paul arrived home, the thief hid under the bed. The tension became too much and the thief suffered a sudden heart attack Paul was unable to sleep due to the ticking of the thief's wristwatch."
+  ],
+  "story_keys": "1. Paul arrives home feeling tired.\n2. He goes to his room and tries to sleep by turning off the light.\n3. He feels uneasy and repeatedly turns on the light to look around.\n4. He eventually checks under his bed and discovers a dead body.",
+  "answer_keys": "1. A thief was stealing from Paul's home.\n2. The thief hid under the bed when Paul arrived home.\n3. The thief suffered a sudden heart attack due to tension.\n4. Paul could not sleep because of the ticking sound from the thief's wristwatch.",
+  "likes": "73% users",
+  "solving_time": "16 minutes",
+  "level": "6/10 medium",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "Tim is sailing his boat when his watch falls overboard. He is a great diver. However, he does not manage to retrieve the watch."
+  ],
+  "answer": [
+    "Tim was sailing on the Dead Sea. Due to the high salt concentration, he couldn't dive deep enough to get his watch back."
+  ],
+  "story_keys": "- Tim is sailing his boat.\n- His watch falls overboard.\n- Tim is a great diver.\n- Despite his diving skills, Tim does not manage to retrieve the watch.",
+  "answer_keys": "1. Tim was sailing on the Dead Sea.\n2. The high salt concentration prevented him from diving deep.\n3. He couldn't retrieve his lost watch.",
+  "likes": "73% users",
+  "solving_time": "15 minutes",
+  "level": "6/10 medium",
+  "date": "05 January 2018"
+}
+{
+  "story": [
+    "A woman finishes getting dressed and dies."
+  ],
+  "answer": [
+    "There was a very venomous spider in one of her shoes. When the woman put on her shoes, the spider bit her."
+  ],
+  "story_keys": "1. A woman finishes getting dressed.\n2. The woman dies.",
+  "answer_keys": "- A venomous spider was inside a woman's shoe.\n- The woman got bitten by the spider when she put on her shoe.",
+  "likes": "73% users",
+  "solving_time": "15 minutes",
+  "level": "4/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A woman walks into a pet store to buy a parrot. The seller offers her one, telling her that it can repeat everything it hears. Some days later the woman - feeling cheated - goes back into the store to get her money back. However, she comes back home with the parrot and not her money. "
+  ],
+  "answer": [
+    "The parrot was deaf. It could not repeat anything, since it could not hear anything. However, the seller did not return the money to the woman because he never lied to her."
+  ],
+  "story_keys": "- A woman goes to a pet store to buy a parrot.\n- The seller tells her the parrot can repeat everything it hears.\n- Few days later, the woman feels cheated and returns to the store for a refund.\n- The woman comes back home still with the parrot and doesn't get her money back.",
+  "answer_keys": "['The parrot was deaf', 'The parrot could not repeat anything because it could not hear', 'The seller did not return the money to the woman', 'The seller never lied to the woman.']",
+  "likes": "73% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A woman is found dead in a hospital. The murder weapon is a pair of scissors. However, the body has no cuts ot wounds of any kind."
+  ],
+  "answer": [
+    "The woman's condition was critical, and the doctors had connected her to a device that kept her alive. The murderer simply cut the wires off that device with scissors to end her life. "
+  ],
+  "story_keys": "1. A woman was found dead in a hospital.\n2. The murder weapon was identified as a pair of scissors.\n3. The woman's body did not have any cuts or wounds.",
+  "answer_keys": "1. The woman was in a critical condition and was kept alive by a device.\n2. Someone cut off the wires of that device with scissors, effectively killing the woman.",
+  "likes": "73% users",
+  "solving_time": "7 minutes",
+  "level": "2/10 Easy",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "Mike has been standing on his knee in the middle of the desert for over a day. He is all alone and has neither food nor water. But he doesn\u2019t leave the place. What\u2019s the matter?"
+  ],
+  "answer": [
+    "He thinks his foot is standing on a mine (although it is not). "
+  ],
+  "story_keys": "Mike is standing alone in the middle of the desert on his knee for over a day without any food or water and refuses to leave.",
+  "answer_keys": "- The person believes his foot is on a mine, despite it not being the case.",
+  "likes": "73% users",
+  "solving_time": "21 minutes",
+  "level": "7/10 Hard",
+  "date": "20 January 2022"
+}
+{
+  "story": [
+    "A man stole a wallet. This caused his death. What happened?"
+  ],
+  "answer": [
+    "Inside the wallet, there was a statement that this wallet\u2019s owner opposes blood transfusion or organ transplantation for religious reasons. The thief got in an accident, and blood transfusion would have saved his life, but this wasn\u2019t done because of the statement in the wallet."
+  ],
+  "story_keys": "1. A man stole a wallet.\n2. The theft led to his death.\n3. It's unclear what exactly happened that caused his death.",
+  "answer_keys": "1. The wallet's owner had a statement inside opposing blood transfusion or organ transplantation for religious reasons.\n2. The thief who stole the wallet got into an accident.\n3. The thief could have been saved by a blood transfusion.\n4. Because of the statement in the wallet, the blood transfusion wasn't conducted.",
+  "likes": "73% users",
+  "solving_time": "24 minutes",
+  "level": "8/10 Hard",
+  "date": "05 February 2022"
+}
+{
+  "story": [
+    "Silence fell, and after a few moments she died."
+  ],
+  "answer": [
+    "A blind ropedancer shows high-altitude acrobatic stunts at high altitude. According to the script, she was to jump off the rope exactly at that moment when the musician stops playing. "
+  ],
+  "story_keys": "1. The individual, a female, died after a few moments of silence.",
+  "answer_keys": "- A blind ropedancer performs high-altitude acrobatic stunts.\n- According to the script, she was to jump off the rope when the musician stops playing.",
+  "likes": "73% users",
+  "solving_time": "17 minutes",
+  "level": "7/10 Hard",
+  "date": "05 February 2022"
+}
+{
+  "story": [
+    "He was very calm. However, they kept beating him until he screamed. After that, she was happy. Why?"
+  ],
+  "answer": [
+    "The girl has just given birth to a son."
+  ],
+  "story_keys": "1. The person was initially very calm.\n2. However, others continued to inflict pain until he screamed.\n3. After this event, a woman became happy.\n4. The reason for her happiness is mysterious/questioned.",
+  "answer_keys": "- The girl has recently become a mother to a son.",
+  "likes": "73% users",
+  "solving_time": "28 minutes",
+  "level": "3/10 Easy",
+  "date": "05 February 2022"
+}
+{
+  "story": [
+    "A man is found hanging in an otherwise empty locked room with a puddle of water under his feet."
+  ],
+  "answer": [
+    "He stood on a block of ice to hang himself."
+  ],
+  "story_keys": "1. A man is found hanging in a locked room.\n2. The room is otherwise empty.\n3. There is a puddle of water under the man's feet.",
+  "answer_keys": "- The individual intended to commit suicide by hanging.\n- The individual used a block of ice to reach a height for the hanging.",
+  "likes": "73% users",
+  "solving_time": "7 minutes",
+  "level": "3/10 Easy",
+  "date": "07 February 2022"
+}
+{
+  "story": [
+    "A naked man is lying dead in the middle of a desert with a match in his hand. What happened?"
+  ],
+  "answer": [
+    "He was with several others in a hot air balloon crossing the desert. The balloon was punctured and they began to lose altitude. They tossed all their non-essentials overboard, then their clothing and food, but were still going to crash in the middle of the desert. Finally, they drew matches to see who would jump over the side and save the others; this man lost."
+  ],
+  "story_keys": "- A naked man is found dead in a desert.\n- The man has a match in his hand.",
+  "answer_keys": "1. The man was in a hot air balloon with several others, crossing the desert.\n2. Their balloon got punctured and started losing altitude.\n3. They threw their non-essential items, clothing, and food overboard to lighten the load. \n4. Despite their efforts, they were still about to crash.\n5. They resorted to drawing matches to decide who would sacrifice themselves by jumping off.\n6. The man referenced ended up losing the draw.",
+  "likes": "72% users",
+  "solving_time": "23 minutes",
+  "level": "7/10 Hard",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A woman went on vacation and asked a friend to look after her cat. A week later, 8 cats were running around the apartment!"
+  ],
+  "answer": [
+    "The next day this cat ran away, and the friend had to start looking for it. Since he did not know the cat very well, he had to keep all the similar cats that he had seen and wait for the friend who was supposed to identify the right pet."
+  ],
+  "story_keys": "1. A woman went on vacation.\n2. She asked a friend to look after her cat.\n3. A week later, there were 8 cats in the woman's apartment.",
+  "answer_keys": "- The cat belonging to the friend ran away the next day.\n- The friend started searching for the cat.\n- He didn't know the cat well, making it hard for him to identify it.\n- He held onto any similar cats he found in anticipation for the owner to confirm the right one.",
+  "likes": "72% users",
+  "solving_time": "7 minutes",
+  "level": "4/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "In the middle of the ocean is a yacht. Several corpses are floating in the water nearby."
+  ],
+  "answer": [
+    "A group of people were on an ocean voyage in a yacht. One day, they decided to go swimming \u2014 they put on their swimsuits and dove off the side. They discovered belatedly that they have forgotten to put a ladder down the side of the yacht and were unable to climb back in, so they drowned."
+  ],
+  "story_keys": "1) A yacht is located in the middle of the ocean.\n2) There are several corpses floating in the water near the yacht.",
+  "answer_keys": "- A group of people were on an ocean voyage in a yacht.\n- They decided to go swimming and jumped off the yacht.\n- The group realized too late that they forgot to put down a ladder.\n- As a result, they were unable to climb back onto the yacht and drowned.",
+  "likes": "72% users",
+  "solving_time": "17 minutes",
+  "level": "4/10 medium",
+  "date": "11 August 2019"
+}
+{
+  "story": [
+    "A man wearing a balaclava runs out of a museum carrying a painting under his arm. A police officer sees him, shoots him dead and commits suicide soon after. A couple of days later, the man with the painting is buried and named favorite son of the city. "
+  ],
+  "answer": [
+    "During a cold spell, there is fire in a museum and its director tried to save the most valuable painting from the museum's collection. The police officer had not noticed the fire and thought the man with the painting was a thief. He told him to freeze but since the director was deaf he did not hear the police officer. When the police officer realized what he had done, he committed suicide. "
+  ],
+  "story_keys": "1. A man wearing a balaclava steals a painting from a museum.\n2. The man is seen by a police officer, who shoots him dead.\n3. The police officer commits suicide shortly after the incident.\n4. Few days later, the thief is buried and posthumously named the favorite son of the city.",
+  "answer_keys": "1. During a cold spell, a fire breaks out in a museum.\n2. The museum director tries to save the most valuable painting from the collection.\n3. A police officer mistakenly believes the director, carrying the painting, is a thief.\n4. The officer orders the director to freeze, but the director is deaf and does not hear him.\n5. Upon realization of his mistake, the police officer commits suicide.",
+  "likes": "72% users",
+  "solving_time": "8 minutes",
+  "level": "6/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [],
+  "answer": [],
+  "story_keys": "You didn't provide any sentence for me to extract a key point from. Could you provide more details?",
+  "answer_keys": "You haven't provided a sentence for me to analyze. Please provide a sentence.",
+  "likes": "72% users",
+  "solving_time": "11 minutes",
+  "level": "6/10 medium",
+  "date": "13 September 2020"
+}
+{
+  "story": [
+    "Four college students were late for a lecture and explained it to the lecturer by having a flat tire. The smart lecturer quickly proved to the rest of the audience that the latecomers had lied. How?"
+  ],
+  "answer": [
+    "The lecturer took all four latecomers to different rooms and asked each of them, on which of the car\u2019s wheels the flat tire was. Of course, they gave different answers."
+  ],
+  "story_keys": "- Four college students were late for a lecture.\n- They told the lecturer they were late due to a flat tire. \n- The lecturer proved to the rest of the class that the students had lied. \n- The method of proof isn't specified.",
+  "answer_keys": "- The lecturer separated four latecomers into different rooms.\n- He asked each of them the same question about the location of a flat tire on a car.\n- Each of the latecomers gave different answers.",
+  "likes": "72% users",
+  "solving_time": "9 minutes",
+  "level": "3/10 Easy",
+  "date": "13 March 2021"
+}
+{
+  "story": [
+    "A man was walking down the street when he suddenly started to choke the woman walking by him. He was taken to the police station but soon after was released. "
+  ],
+  "answer": [
+    "This woman was his wife. Some years ago she staged her death and her husband was found guilty. He already got out of jail and now can not be convicted for the same crime one more time."
+  ],
+  "story_keys": "1. A man was walking down the street and started to choke a woman.\n2. The man was taken to the police station.\n3. He was released from the police station soon after.",
+  "answer_keys": "1. The woman in question faked her death.\n2. Her husband was found guilty in relation to her \"death\".\n3. He already served time in jail for her \"death\".\n4. He cannot be convicted for the same crime again due to rules against double jeopardy.",
+  "likes": "71% users",
+  "solving_time": "18 minutes",
+  "level": "8/10 Hard",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A dying man gives another man a gift, and then the dying man dies. Shortly after that the second man dies. How come?"
+  ],
+  "answer": [
+    "The second man had shot the first man. Before he dies, the first man gives the second man a grenade pin, which he's of course just pulled from a grenade. The first man dies, then the grenade explodes and the second man dies."
+  ],
+  "story_keys": "1. A dying man gives another man a gift.\n2. The dying man dies.\n3. Shortly afterwards, the second man also dies. \n4. It is unclear why the second man dies.",
+  "answer_keys": "1. The second man shoots the first man.\n2. Before dying, the first man gives the second man a pulled grenade pin.\n3. The first man dies.\n4. The grenade explodes, killing the second man.",
+  "likes": "71% users",
+  "solving_time": "10 minutes",
+  "level": "3/10 Easy",
+  "date": "19 January 2022"
+}
+{
+  "story": [
+    "When Martin woke up that morning, he was surprised to see the door open. As soon as he crossed the threshold he got beheaded. "
+  ],
+  "answer": [
+    "Martin was a canary that had been living in his cage for four months. Silvester - a cat - was waiting for his opportumity to catch Martin and eat him. When their owner left the cage door open by mistake Martin flew out of it and Silvester bit off his small head."
+  ],
+  "story_keys": "- Martin woke up and found the door open.\n- As soon as Martin crossed the threshold, he was beheaded.",
+  "answer_keys": "1. Martin is a canary that has been living in a cage for four months.\n2. Silvester is a cat that's waiting for an opportunity to catch and eat Martin.\n3. The cage door is left open by mistake by their owner.\n4. Martin flew out of the cage when the door was left open. \n5. Silvester ends up killing Martin by biting off his head.",
+  "likes": "70% users",
+  "solving_time": "10 minutes",
+  "level": "4/10 medium",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "A couple find a man's corpse on the beach. The corpse is under an umbrella and has a knife on his back. There are no signs of violence and no traces of blood. The autopsy reveals that the man died of natural causes. "
+  ],
+  "answer": [
+    "The man, who had a tattoo of a knife on his back, died of a heart attack."
+  ],
+  "story_keys": "1. A couple discovers a man's corpse on the beach.\n2. The corpse is found under an umbrella with a knife on his back. \n3. No signs of violence or traces of blood are present. \n4. An autopsy shows that the man died of natural causes.",
+  "answer_keys": "1. The man had a tattoo of a knife on his back.\n2. The man died of a heart attack.",
+  "likes": "70% users",
+  "solving_time": "6 minutes",
+  "level": "3/10 Easy",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "One person decided to play golf with Nick Faldo, imposing one condition - he will choose the time and the place for a match. Nick agreed. As a result this person beat the champion. "
+  ],
+  "answer": [
+    "This person was blind and he chose to play this match at moonless night. He could play golf perfectly well in dark. (It is true, blind people can play golf with the help of not blind people). Such conditions were unusual for Nick so he lost. "
+  ],
+  "story_keys": "- One person chose to play golf with Nick Faldo, deciding the time and place.\n- Nick Faldo agreed to these conditions.\n- The person ended up beating golf champion Nick Faldo.",
+  "answer_keys": "- The person is blind and chose to play a match in a moonless night. \n- He can play golf perfectly well in the dark with the help of non-blind people.\n- The unusual conditions led to Nick losing the match.",
+  "likes": "70% users",
+  "solving_time": "25 minutes",
+  "level": "6/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "Cindy is amongst a crowd of people when she is murdered. However, nobody notices her cries."
+  ],
+  "answer": [
+    "Cindy was in a movie theater, watching a horror movie. A very scary scene started. While everybody was screaming the murderer - who was behind her - was killing her. "
+  ],
+  "story_keys": "1. Cindy is murdered in a crowded place.\n2. None of the people in the crowd notice her cries.",
+  "answer_keys": "- Cindy was watching a horror movie in a movie theater.\n- During a very scary scene, other people began screaming.\n- Unbeknownst to her, the murderer was positioned behind her.\n- She was being killed by the murderer while she was watching the movie.",
+  "likes": "70% users",
+  "solving_time": "6 minutes",
+  "level": "4/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "A man is returning from Switzerland by train. If he had been in a non-smoking car he would have died."
+  ],
+  "answer": [
+    "The man used to be blind \u2014 he's returning from an eye operation which restored his sight. He spent all his money on the operation, so when the train (which had no internal lighting) goes through a tunnel, he thinks he's gone blind again and decides to kill himself. But before he could do it, he saw the light of the cigarettes people were smoking and realized he could still see."
+  ],
+  "story_keys": "1. A man is traveling back from Switzerland by train.\n2. He would have died if he was in a non-smoking car.",
+  "answer_keys": "1. The man used to be blind. \n2. He underwent an eye operation that restored his sight, spending all his money on it.\n3. During a train ride with no internal lighting, he thought he went blind again when it went through a tunnel. \n4. This belief led him to contemplate suicide.\n5. However, he saw the light from people's cigarettes and realized he could still see, averting his suicidal thoughts.",
+  "likes": "70% users",
+  "solving_time": "43 minutes",
+  "level": "7/10 Hard",
+  "date": "12 February 2022"
+}
+{
+  "story": [
+    "A man walks up to a cactus, looks at a piece of paper pinned there, and kills himself."
+  ],
+  "answer": [
+    "The man has been wandering lost in the desert. He fears he has been walking in circles. To test this, he pins a blank piece of paper to a cactus and sets off walking. When he encounters the paper again, his fears are confirmed and he knows he will never find his way out."
+  ],
+  "story_keys": "1. A man approaches a cactus.\n2. There is a paper pinned to the cactus.\n3. The man looks at this paper.\n4. The man commits suicide.",
+  "answer_keys": "- Man is lost and wandering in the desert.\n- Man fears he is walking in circles.\n- To test this, he pins a blank piece of paper to a cactus and walks off.\n- He encounters the same pinned paper again confirming he's been walking in circles.\n- His fear of never finding a way out is confirmed.",
+  "likes": "69% users",
+  "solving_time": "10 minutes",
+  "level": "4/10 medium",
+  "date": "22 January 2018"
+}
+{
+  "story": [
+    "The man was going to go to work by car, but found that one of the tires was flat. Without doing anything, he got into the car and drove 20 kilometers to work and then back home, without the slightest embarrassment. How could he manage it?"
+  ],
+  "answer": [
+    "The tire was flat on the spare wheel, which was in the trunk."
+  ],
+  "story_keys": "- The man was planning to go to work by car.\n- One of the car's tires was flat.\n- The man didn't fix the flat tire, but still drove 20 kilometers to work and back.\n- He managed to do this without embarrassment.\n- The text questions how he could manage it.",
+  "answer_keys": "- The spare wheel in the trunk had a flat tire.",
+  "likes": "68% users",
+  "solving_time": "10 minutes",
+  "level": "2/10 Easy",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "How do you get a full-grown pear inside a bottle of brandy?"
+  ],
+  "answer": [
+    "It may be easier than putting a ship in a bottle but requires just as much patience. The pear isn\u2019t put into the bottle; it grows inside it. When the fruit is small, the bottle is affixed to the tree branch, and the pear grows to maturity inside the bottle."
+  ],
+  "story_keys": "- The sentence is inquiring about a method of getting a full-grown pear inside a bottle of brandy.",
+  "answer_keys": "1. The process of growing a pear inside a bottle is easier but requires the same amount of patience as putting a ship in a bottle.\n2. The pear is not inserted into the bottle; instead, it grows inside it.\n3. When the pear is small, the bottle is affixed to the tree branch.\n4. The pear matures while inside the bottle.",
+  "likes": "68% users",
+  "solving_time": "5 minutes",
+  "level": "2/10 Easy",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A guy goes into a drugstore and leaves shortly after with the money from the cash register. The drugstore owner calls the Police Station and, some time later, a police officer recovers the money and takes the guy away. That evening the three people go to the police station to report a theft."
+  ],
+  "answer": [
+    "The guy was the drugstore owner's son. His car had been stolen and he had an important exam. He had been to the drugstore to ask his mother for some money so he could take a taxi. In addition to this, the mother called her husband - who was a police officer - and asked him to bring their son to the exam. He did, and since the son did not need the money any more, he gave it back to his father, who returned it to the mother. At the end of the day, the whole family reported the car theft."
+  ],
+  "story_keys": "1. A man goes into a drugstore and steals money from the cash register.\n2. The drugstore owner reports the theft to the police station.\n3. A police officer retrieves the stolen money and apprehends the thief.\n4. The drugstore owner, thief and police officer go to the police station to report the theft later that evening.",
+  "answer_keys": "1. The main character is the son of a drugstore owner and his stolen car.\n2. He needed money for a taxi to get to an important exam.\n3. His mother, the drugstore owner, gave him the money. \n4. His father, a police officer, drove him to the exam, making the money unnecessary.\n5. The son returned the money to his father, who gave it back to his mother.\n6. The family reported the car theft by the end of the day.",
+  "likes": "67% users",
+  "solving_time": "32 minutes",
+  "level": "8/10 Hard",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "A man returns from a business trip, he rings a door, his wife opens it. He immediately accused her of betrayal."
+  ],
+  "answer": [
+    "On the way back home, this man decided to visit his friend. And the door was opened by his own half-dressed wife."
+  ],
+  "story_keys": "1. A man returns from a business trip.\n2. He rings the door.\n3. His wife opens the door.\n4. He immediately accuses her of betrayal.",
+  "answer_keys": "1. A man decided to visit his friend while returning home.\n2. The man's own half-dressed wife opened the door.",
+  "likes": "67% users",
+  "solving_time": "4 minutes",
+  "level": "2/10 Easy",
+  "date": "18 January 2018"
+}
+{
+  "story": [],
+  "answer": [],
+  "story_keys": "Apologies, but there is no sentence provided to extract key points from. Please provide the sentence.",
+  "answer_keys": "You did not provide a sentence for me to list the key point from. Could you please send the sentence?",
+  "likes": "66% users",
+  "solving_time": "6 minutes",
+  "level": "6/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [],
+  "answer": [
+    "One of the \u201cchess players\u201d had no kings on the board."
+  ],
+  "story_keys": "You didn't provide any sentence for me to examine and list the key points.",
+  "answer_keys": "A \"chess player\" had no kings on his board.",
+  "likes": "66% users",
+  "solving_time": "2 minutes",
+  "level": "4/10 medium",
+  "date": "20 January 2018"
+}
+{
+  "story": [],
+  "answer": [
+    "He stabbed himself with an icicle."
+  ],
+  "story_keys": "You didn't provide a sentence. Please provide a sentence for me to identify key points.",
+  "answer_keys": "['He stabbed himself', 'with an icicle.']",
+  "likes": "66% users",
+  "solving_time": "8 minutes",
+  "level": "5/10 medium",
+  "date": "20 March 2019"
+}
+{
+  "story": [
+    "At the end of the XIX century one american enterpreneur invented a system to withstand competition. This system we all use nowadays. "
+  ],
+  "answer": [
+    "This american enterpreneur was Almon Brown Strowger. Strowger patented his automatic telephone exchange and left the undertaking business to mass-produce his new invention."
+  ],
+  "story_keys": "- An American entrepreneur invented a system to withstand competition at the end of the XIX century.\n- This system is widely used in the present day.",
+  "answer_keys": "- Almon Brown Strowger, an American entrepreneur, patented his automated telephone exchange. \n- Strowger left his previous business to mass-produce his new invention.",
+  "likes": "66% users",
+  "solving_time": "62 minutes",
+  "level": "7/10 Hard",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "In the front of a car, a woman is found dead. There is a gun in the back seat, out of her reach. The windows are closed and the doors are all locked. "
+  ],
+  "answer": [
+    "The woman was sitting in a convertible and the top was down. The murderer shot her and threw the gun into the back seat of the car."
+  ],
+  "story_keys": "- A woman is found dead in the front of a car.\n- A gun is in the back seat, out of her reach.\n- The car windows are closed.\n- All the car doors are locked.",
+  "answer_keys": "1. The woman was sitting in a convertible with the top down.\n2. She was shot by a murderer.\n3. The murderer threw the gun into the back seat of the car.",
+  "likes": "66% users",
+  "solving_time": "18 minutes",
+  "level": "4/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "Landlords used to delay payment to people who built and repaired houses or even booted them out without money. But the builders came up with an uncommon move, which immediately made the landlords pay them in full. What did they do?"
+  ],
+  "answer": [
+    "When laying a foundation for a house or repairing it, they put a raw egg in a certain place. After a while, it began to rot. If the landlord called the builders and paid for their work, they took the egg away. If he booted them out, the egg eventually began to stink, and it was very difficult to find where it had been hidden."
+  ],
+  "story_keys": "- Landlords would delay payment to builders and repairers.\n- Builders then implemented an uncommon move to make landlords pay.\n- This move resulted in immediate and full payment from landlords.\n- The specific strategy implemented by builders is not stated.",
+  "answer_keys": "- A foundation for a house is being laid or repaired.\n- A raw egg is placed in a certain spot during this process.\n- The egg begins to rot after a while.\n- If the landlord pays the builders for their task, they remove the egg.\n- If the landlord dismisses them without payment, the rotting egg remains and starts to stink.\n- It is quite challenging to locate the hidden, rotten egg.",
+  "likes": "66% users",
+  "solving_time": "11 minutes",
+  "level": "5/10 medium",
+  "date": "16 April 2018"
+}
+{
+  "story": [
+    "After the barrister\u2019s speech, Bill\u2019s punishment was upgraded. Why?"
+  ],
+  "answer": [],
+  "story_keys": "- After the barrister's speech, Bill's punishment was upgraded. \n- The barrister's speech resulted in a harsher punishment for Bill. \n- The reason for the increased punishment is being questioned.",
+  "answer_keys": "You didn't provide a sentence for me to analyze. Could you please include the sentence you want summarized?",
+  "likes": "66% users",
+  "solving_time": "5 minutes",
+  "level": "2/10 Easy",
+  "date": "10 December 2019"
+}
+{
+  "story": [
+    "A mother-in-law disliked her son-in-law so much that she wanted to poison him. But the son-in-law was careful and always ate only what his mother-in-law ate. Over dinner one night, the mother-in-law cut a piece of meat in half, ate one half herself, and gave the other to her son-in-law. After that he died. How did she manage to do it?"
+  ],
+  "answer": [
+    "She greased one side of the knife with poison."
+  ],
+  "story_keys": "The key points are:\n\n- A mother-in-law intensely disliked her son-in-law.\n- She wanted to poison him for this reason. \n- The son-in-law was cautious about eating and only ate the same food as his mother-in-law.\n- During a dinner, she cut a piece of meat into two halves, ate one, and gave the other to her son-in-law.\n- The son-in-law died after eating it.\n- The mother-in-law managed to poison him, but it's unclear how she accomplished this.",
+  "answer_keys": "- The individual applied poison on one side of a knife.",
+  "likes": "66% users",
+  "solving_time": "4 minutes",
+  "level": "3/10 Easy",
+  "date": "09 February 2020"
+}
+{
+  "story": [
+    "After a professor died, his will was followed carefully, but later it turned out that he wanted something completely different. Why?"
+  ],
+  "answer": [
+    "The professor signed his skeleton away to the medical university. After his death, his skeleton was turned into a teaching aid. But later a skeleton on a stand was found in the professor\u2019s office \u2013 this very skeleton the professor had in mind."
+  ],
+  "story_keys": "1. A professor passed away.\n2. His will was followed carefully.\n3. Later it was discovered that the professor wanted something entirely different. \n4. The will did not accurately reflect the professor's true desires. \n5. The reason why this happened is currently unknown.",
+  "answer_keys": "1. The professor willed his skeleton to a medical university.\n2. His skeleton was used as a teaching aid after his death.\n3. A skeleton, which is believed to be the professor's, was later found in his office.",
+  "likes": "66% users",
+  "solving_time": "13 minutes",
+  "level": "7/10 Hard",
+  "date": "01 November 2020"
+}
+{
+  "story": [
+    "Camellia brought Valmont some wine. He looked at his watch, drank and died."
+  ],
+  "answer": [
+    "Valmont was hopelessly in love with Camellia, but she didn\u2019t reciprocate. One day she offered Valmont a cruel game: she put some poison into one of the two glasses of wine, and Valmont had to drink any of them. If he survived, Camelia agreed to marry him."
+  ],
+  "story_keys": "1. Camellia brought wine to Valmont.\n2. Valmont checked his watch.\n3. Valmont drank the wine.\n4. Valmont died after drinking the wine.",
+  "answer_keys": "- Valmont is deeply in love with Camellia.\n- Camellia doesn't share Valmont's feelings.\n- Camellia offers Valmont a cruel game involving two glasses of wine, one is poisoned.\n- Valmont must drink from one of the glasses.\n- If Valmont survives, Camellia agrees to marry him.",
+  "likes": "66% users",
+  "solving_time": "120 minutes",
+  "level": "6/10 medium",
+  "date": "03 April 2021"
+}
+{
+  "story": [
+    "One day Mark hid his watch. What for?"
+  ],
+  "answer": [],
+  "story_keys": "- Mark hid his watch one day.",
+  "answer_keys": "You didn't provide a sentence for me to analyze. Please provide a sentence.",
+  "likes": "66% users",
+  "solving_time": "120 minutes",
+  "level": "5/10 medium",
+  "date": "03 April 2021"
+}
+{
+  "story": [
+    "Two women are talking. One goes into the bathroom, comes out five minutes later, and kills the other."
+  ],
+  "answer": [
+    "Both women are white; the one whose house this takes place in is single. A black friend of the other woman, the one who goes into the bathroom, was recently killed, reportedly by the KKK (Ku Klux Klan). The woman who goes into the bathroom discovers a bloodstained KKK robe in the other's laundry hamper, picks up a nail file from the medicine cabinet, and goes out and kills the other."
+  ],
+  "story_keys": "1. Two women are talking.\n2. One woman goes into the bathroom.\n3. The same woman comes out five minutes later.\n4. This woman kills the other woman.",
+  "answer_keys": "1. There are two women in the story who are both white. \n2. The story is taking place in the house of the single woman.\n3. The other woman, who entered the bathroom, has a black friend who was recently killed, allegedly by the KKK.\n4. In the single woman's house, the visiting woman finds a bloodstained KKK robe in the laundry hamper.\n5. This visiting woman then takes a nail file from the medicine cabinet.\n6. The woman who found the KKK robe uses the nail file to kill the single woman, who supposedly owns the robe.",
+  "likes": "66% users",
+  "solving_time": "30 minutes",
+  "level": "9/10 Hard",
+  "date": "18 January 2022"
+}
+{
+  "story": [],
+  "answer": [
+    "The correct answer is: the monkeys don\u2019t look through the pipe at one time."
+  ],
+  "story_keys": "You didn't provide a sentence for me to analyze. Please provide a sentence.",
+  "answer_keys": "The key point is: the monkeys don't look through the pipe at one time.",
+  "likes": "66% users",
+  "solving_time": "1 minute",
+  "level": "2/10 Easy",
+  "date": "02 February 2022"
+}
+{
+  "story": [
+    "A woman entered a building accompanied by a man whom she loves very much. But she left the building with another man, whom she loves very much. What happened?"
+  ],
+  "answer": [
+    "A woman is getting married. Her father brought her to church, and she leaves the church with her husband."
+  ],
+  "story_keys": "1. A woman entered a building with a man she loves.\n2. She left the building with a different man whom she also loves very much. \n3. The sentence raises the question: what happened?",
+  "answer_keys": "1. A woman is getting married.\n2. Her father escorts her to church.\n3. She leaves the church with her husband.",
+  "likes": "66% users",
+  "solving_time": "1 minute",
+  "level": "1/10 Easy",
+  "date": "02 February 2022"
+}
+{
+  "story": [
+    "The husband lied to his wife that there were weapons buried in the backyard of their house. What for?"
+  ],
+  "answer": [
+    "He was serving a sentence in prison and knew that his correspondence was read. He wanted to make his wife a birthday gift \u2013 to help her dig up a vegetable garden."
+  ],
+  "story_keys": "- The husband lied to his wife about weapons buried in their backyard.",
+  "answer_keys": "1. The person is serving a sentence in prison.\n2. He is aware that his correspondence is being read.\n3. He wants to help his wife by creating a vegetable garden as a birthday gift.",
+  "likes": "66% users",
+  "solving_time": "5 minutes",
+  "level": "6/10 medium",
+  "date": "16 April 2022"
+}
+{
+  "story": [
+    "A man had lunch at the restaurant, and the waiter brought him his bill. He wrote out a check for the required amount but suddenly turned it over and wrote a few words on the reverse side of the check as congratulations to the restaurant owner. What for?"
+  ],
+  "answer": [
+    "Salvador Dali was famous not only by his eccentric escapades, but also for his passion for money. Despite earning millions from his paintings and numerous commercial projects, the famous surrealist wasn\u2019t above saving on restaurant bills. The whole evening, Dali could treat a large company of friends to any dishes and drinks from the menu. When it was time to pay the bill, the artist generously signed a check for a huge amount, then turned the check over and wrote a few warm words, expressing gratitude to the restaurant owner. "
+  ],
+  "story_keys": "- A man had lunch at a restaurant.\n- The waiter brought him his bill.\n- He wrote a check for the bill amount.\n- He then unexpectedly turned the check over and wrote a few words of congratulations to the restaurant owner on the back. \n- The reason for his congratulations to the owner is not specified.",
+  "answer_keys": "- Salvador Dali was not only famous for his eccentricities but also for his love of money.\n- Despite making millions from his artwork and commercial projects, he still tried to save on restaurant bills.\n- Dali would often treat large groups of friends at restaurants, ordering a variety of dishes and drinks.\n- To avoid paying the large bills, he would write checks for the amount, then flip the check over and write a message to the restaurant owner instead.",
+  "likes": "66% users",
+  "solving_time": "85 minutes",
+  "level": "9/10 Hard",
+  "date": "20 April 2022"
+}
+{
+  "story": [
+    "Micheal and his wife were having a heated argument that lasted hours. After some time they both left the house to go outside. Neither of them ever returned."
+  ],
+  "answer": [
+    "While they were arguing they forgot that they had food cooking in the kitchen. The unattended stove caused a fire that began spreading through the house. They left the house as soon as they realised it was burning. The house burned to the ground so they could never go back."
+  ],
+  "story_keys": "- Micheal and his wife had a long, heated argument.\n- They both left the house during the argument.\n- Neither Micheal nor his wife returned to the house.",
+  "answer_keys": "1. The individuals were arguing and forgot about the food cooking in the kitchen.\n2. The unattended stove led to a fire that spread throughout the house. \n3. They evacuated the house once they noticed the fire. \n4. The house eventually burned to the ground, making it uninhabitable.",
+  "likes": "66% users",
+  "solving_time": "5 minutes",
+  "level": "5/10 medium",
+  "date": "17 December 2023"
+}
+{
+  "story": [
+    "King George IV was born in 1763 and ruled England from 1820 to 1830 when he died. He wasn\u2019t an outstanding ruler but is known as a footwear trendsetter. His shoes were fundamentally different from those worn by his contemporaries. Everyone liked this innovation so much that today it\u2019s a common practice, which can\u2019t be said about those times. What kind of innovation is it?"
+  ],
+  "answer": [
+    "This king was the first to have a right and a left boot. Before then, all shoes and boots were made to fit both feet."
+  ],
+  "story_keys": "- King George IV was born in 1763.\n- He ruled England from 1820 to 1830.\n- He wasn't considered an outstanding ruler.\n- He was known as a footwear trendsetter.\n- His shoes were different from those worn by his contemporaries.\n- His innovative footwear became very popular.\n- Today, his footwear style has become a common practice.",
+  "answer_keys": "- The king was the first one to have distinct right and left boots.\n- Prior to this, all shoes and boots were made to fit either foot.",
+  "likes": "66% users",
+  "solving_time": "11 minutes",
+  "level": "7/10 Hard",
+  "date": "22 December 2023"
+}
+{
+  "story": [
+    "A businessman witnesses a kidnapping. However, when he tells the police, they do not believe him. "
+  ],
+  "answer": [
+    "After leaving the dentist, the witness was unable to speak properly, since he had numb mouth. The policemen thought that the man was drunk and did not believe a word he said."
+  ],
+  "story_keys": "['A businessman witnesses a kidnapping', 'He informs the police about the incident', 'The police do not believe the businessman's statement about the kidnapping.']",
+  "answer_keys": "- The witness was unable to speak properly after leaving the dentist due to a numb mouth.\n- The policemen assumed the man was drunk due to his impaired speech and didn't believe him.",
+  "likes": "65% users",
+  "solving_time": "17 minutes",
+  "level": "6/10 medium",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "Two devices are commonly used by people. They are created for the same purpose. But one of them has lots of details and another does not has any. What are these things? "
+  ],
+  "answer": [
+    "One of these devices is hourglass. Another one is sundial. "
+  ],
+  "story_keys": "- Two devices are commonly used by people.\n- They are created for the same purpose.\n- One device has lots of details.\n- The other device lacks any details. \n- The text queries what these two devices could be.",
+  "answer_keys": "- Devices mentioned are hourglass and sundial.",
+  "likes": "64% users",
+  "solving_time": "19 minutes",
+  "level": "6/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A woman is planning to kill her husband during dinner. However, she commits suicide while preparing it."
+  ],
+  "answer": [
+    "She was planning to kill him by poisoning the food with some pills that she had in her bag. When she went to grab them, she noticed that they were not there, and that her son had swallowed them, thinking they were sweets. She couldn't bear it and took her own life. "
+  ],
+  "story_keys": "1. A woman is planning to murder her husband during dinner.\n2. She ultimately commits suicide while preparing for the meal.",
+  "answer_keys": "1. A woman planned to poison a man with pills\n2. She realized the pills were missing from her bag.\n3. She discovered her son had ingested the pills mistaking them for sweets.\n4. Overwhelmed by the tragedy, she committed suicide.",
+  "likes": "63% users",
+  "solving_time": "12 minutes",
+  "level": "6/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "I was having dinner with my friend and he said to find a hidden place so that he would not be seen. After a while, my friend exploded."
+  ],
+  "answer": [
+    "My friend and I are mosquitoes, and in the middle of sucking blood, my friend was slapped to death by a human, so he exploded."
+  ],
+  "story_keys": "1. The speaker was having dinner with their friend.\n2. The friend requested to find a hidden place to avoid being seen.\n3. Some time later, the speaker's friend exploded.",
+  "answer_keys": "1. The speaker and their friend are mosquitoes.\n2. They were in the process of sucking blood.\n3. The friend mosquito was killed by a human slap.\n4. The friend mosquito exploded upon death.",
+  "likes": "63% users",
+  "solving_time": "8 minutes",
+  "level": "3/10 Easy",
+  "date": "20 November 2021"
+}
+{
+  "story": [
+    "When the priest stopped talking, Bobby died."
+  ],
+  "answer": [
+    "Bobby was a little hamster who had come to the church along with Tom, his 9-year-old owner. When the priest was speaking in front of the believers, the little hamster escaped from the child's lap and went to the altar. When the priest finished speaking and headed towards his chair, he did not see Bobby and crushed him with his foot."
+  ],
+  "story_keys": "- Bobby died after the priest stopped talking.",
+  "answer_keys": "- Bobby is a little hamster owned by a 9-year-old boy named Tom.\n- Bobby and Tom go to a church.\n- While the priest was speaking, Bobby escapes from Tom's lap and went to the altar.\n- The priest, not seeing Bobby, crushes him with his foot after finishing his speech.",
+  "likes": "62% users",
+  "solving_time": "17 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [],
+  "answer": [],
+  "story_keys": "You did not provide a sentence to analyze. Please provide a sentence.",
+  "answer_keys": "You forgot to provide a sentence. Could you please add information so I can analyze it?",
+  "likes": "62% users",
+  "solving_time": "13 minutes",
+  "level": "8/10 Hard",
+  "date": "12 October 2019"
+}
+{
+  "story": [
+    "Kirill is jailed for a murder he hasn\u2019t committed. Bill can prove that it wasn\u2019t Kirill. But he deliberately hides the evidence. Why?"
+  ],
+  "answer": [],
+  "story_keys": "1. Kirill is in jail for a murder he didn't commit.\n2. Bill has proof that Kirill isn't the murderer.\n3. Despite having this evidence, Bill deliberately hides it. \n4. The reason behind Bill's actions is questioned.",
+  "answer_keys": "You haven't provided a sentence for me to analyze. Could you please provide more information?",
+  "likes": "62% users",
+  "solving_time": "10 minutes",
+  "level": "7/10 Hard",
+  "date": "03 February 2022"
+}
+{
+  "story": [
+    "Oscar was sitting reading his newspaper, when he heard a noise. When he realized what had happened, he bitterly regretted not having caught the taxi in time. Shortly afterwards, he committed suicide. "
+  ],
+  "answer": [
+    "Oscar was broke. He was a miniature car models collector and, to solve his economic problems, he was going to sell his most valuable car. He had been cleaning it and did not put it down on the table properly when he finished. When he sat down and began to read his newspaper, he heard how it fell off the table. He could not catch it in time before it crashed into the floor."
+  ],
+  "story_keys": "1. Oscar was sitting and reading his newspaper when he heard a noise.\n2. He realized something had happened and was filled with regret for not catching a taxi in time.\n3. Oscar commits suicide shortly after realizing his regret.",
+  "answer_keys": "1. Oscar was broke and a collector of miniature car models.\n2. To solve his economic problems, he decided to sell his most valuable car model.\n3. After cleaning the car model, he did not place it properly on the table. \n4. The car model fell from the table while Oscar was reading his newspaper.\n5. Oscar was unable to catch the model before it hit the floor.",
+  "likes": "61% users",
+  "solving_time": "27 minutes",
+  "level": "8/10 Hard",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "A woman completes a drawing, and then commits suicide. Why?"
+  ],
+  "answer": [
+    "Long suspicious of her family history, the woman does the research necessary to draw her family tree. Upon completing it, she confirms that she is the product of incest, a fact she cannot live with."
+  ],
+  "story_keys": "1. A woman completes a drawing.\n2. The woman then commits suicide.\n3. The reason for her suicide is questioned.",
+  "answer_keys": "1. The woman has long held suspicions about her family history.\n2. She researches and creates her family tree.\n3. The woman discovers through her research that she is a product of incest.\n4. The woman cannot come to terms with this revelation.",
+  "likes": "61% users",
+  "solving_time": "21 minutes",
+  "level": "7/10 Hard",
+  "date": "08 May 2023"
+}
+{
+  "story": [
+    "Why did a healthy young girl put a gypsum on her arm, which was not damaged?"
+  ],
+  "answer": [
+    "A young girl put a gypsum on the healthy arm before an oral french exam. She thought that the examiner would ask about her arm. And she came to the exam, having prepared for this particular question."
+  ],
+  "story_keys": "A healthy young girl put gypsum on her undamaged arm.",
+  "answer_keys": "-A young girl puts gypsum on her healthy arm before a French oral exam.\n-She anticipates the examiner will ask about her arm.\n-She prepares for such a question coming up in her examination.",
+  "likes": "60% users",
+  "solving_time": "27 minutes",
+  "level": "8/10 Hard",
+  "date": "27 January 2018"
+}
+{
+  "story": [
+    "A man designed a device into which you can insert colored paper, and then get the ideal 100$. Experts can not distinguish them from the real ones. How does he do that, and why does he sell this device?"
+  ],
+  "answer": [
+    "The man sells this device to the thief, convincing him that it prints counterfeit dollars that are indistinguishable from the real ones. He demonstrates the machine by inserting green paper into it. But green paper - this is actually real 100$, but richly painted in green. The machine simply removes green paint from them."
+  ],
+  "story_keys": "1. A man has designed a device that can turn colored paper into something resembling a 100$ bill.\n2. Experts can't tell the difference between the real bills and the ones produced by this device.\n3. Questions remain regarding how this process works and why the man is selling the device.",
+  "answer_keys": "1. A man sells a device to a thief, claiming it can print counterfeit dollars that look identical to real ones.\n2. The man demonstrates the machine by inserting green paper into it.\n3. The green paper used in the demonstration is actually real $100 notes that have been heavily painted in green.\n4. The machine's only function is to remove the green paint from the notes.",
+  "likes": "60% users",
+  "solving_time": "15 minutes",
+  "level": "5/10 medium",
+  "date": "27 January 2018"
+}
+{
+  "story": [
+    "Michael manages to get shot; in doing so he saves his own life."
+  ],
+  "answer": [
+    "Michael was a soldier on the battlefront. The day of a big attack was approaching. When none of the other soldiers were looking, he put out an arm, so that the enemy would shoot at it. He was then taken to the hospital, and his life was no longer in danger."
+  ],
+  "story_keys": "['Michael gets shot which ironically saves his life.']",
+  "answer_keys": "- Michael was a soldier on the battlefront.\n- A big attack was approaching.\n- He deliberately put his arm out to get shot by the enemy.\n- He was then taken to the hospital.\n- His life was now no longer in danger.",
+  "likes": "60% users",
+  "solving_time": "22 minutes",
+  "level": "4/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "A woman starves to death despite being surrounded by food."
+  ],
+  "answer": [
+    "The woman worked in the stores of a large food company. During the holiday period, she was alone and locked herself in by accident. As all the food was canned and she had nothing to open the cans with, she starved to death."
+  ],
+  "story_keys": "1. A woman dies from starvation.\n2. The woman was surrounded by food. \n3. Despite having food around, she didn't consume it.",
+  "answer_keys": "- The woman was an employee at a large food company's store.\n- She accidentally locked herself in the store during holidays.\n- Despite being surrounded by canned food, she starved to death because she had no tool to open the cans.",
+  "likes": "60% users",
+  "solving_time": "8 minutes",
+  "level": "4/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A car without a driver moves; a man dies. How come?"
+  ],
+  "answer": [
+    "The murderer sets the car on a slope above the hot dog stand where the victim works. He then wedges an ice block in the car to keep the brake pedal down, and puts the car in neutral, after which he flies to another city to avoid suspicion. It's a warm day; when the ice melts, the car rolls down the hill and strikes the hot dog man at his roadside stand, killing him."
+  ],
+  "story_keys": "1. A car is moving without a driver.\n2. A man dies.\n3. There is a question about the correlation between these two events.",
+  "answer_keys": "1. The murderer sets up a car on a slope above a hot dog stand where the victim works.\n2. He keeps the car's brake pedal down using an ice block and puts the car in neutral.\n3. He then flies to another city to avoid suspicion.\n4. On a warm day, the ice melts releasing the brake and causing the car to roll down.\n5. The car rolls down the hill and hits the victim at his hot dog stand, resulting in his death.",
+  "likes": "60% users",
+  "solving_time": "14 minutes",
+  "level": "6/10 medium",
+  "date": "19 January 2022"
+}
+{
+  "story": [
+    "A magician is standing on a concrete floor holding a raw egg with his hand outstretched. Without the aid of any objects, he is able to drop the egg two feet without breaking it's shell. How does he do it?"
+  ],
+  "answer": [
+    "He simply holds the egg higher than two feet, and then releases the egg. The first two feet it will fall without breaking."
+  ],
+  "story_keys": "- A magician is standing on a concrete floor\n- The magician is holding a raw egg with his hand outstretched\n- The magician is able to drop the egg two feet without breaking its shell\n- The magician does this without the aid of any objects.",
+  "answer_keys": "- He holds the egg higher than two feet\n- He then releases the egg\n- For the first two feet, the egg will fall without breaking.",
+  "likes": "60% users",
+  "solving_time": "4 minutes",
+  "level": "1/10 Easy",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "Bill shot the man, but was not punished. Why?"
+  ],
+  "answer": [
+    "The man was a film actor. According to the script, Bill was supposed to \u201cshoot\u201d him."
+  ],
+  "story_keys": "1. Bill shot a man.\n2. Bill was not punished for this action.\n3. The reason for Bill's lack of punishment is being questioned.",
+  "answer_keys": "- The man being talked about is a film actor.\n- The script stated that a character named Bill was supposed to \"shoot\" the actor.",
+  "likes": "60% users",
+  "solving_time": "7 minutes",
+  "level": "4/10 medium",
+  "date": "20 December 2023"
+}
+{
+  "story": [
+    "Two men are beating each other up and both of them suddenly fall to the floor."
+  ],
+  "answer": [
+    "The daughter of one of the boxers had been kidnapped and she would be killed if her father won the fight. At the end of the fight, the boxer's opponent fainted and the other boxer - in order not to win the match - threw himself to the floor."
+  ],
+  "story_keys": "['Two men are fighting, both fall to the floor.']",
+  "answer_keys": "1. The daughter of a boxer has been kidnapped.\n2. The kidnapper threatened to kill the daughter if her father won the match.\n3. At the end of the fight, the opposition boxer fainted.\n4. To avoid winning, and hence save his daughter, the boxer intentionally threw himself on the floor.",
+  "likes": "59% users",
+  "solving_time": "25 minutes",
+  "level": "7/10 Hard",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "The man was walking along the rails and suddenly he saw a train coming towards him. Then he ran like hell to meet the approaching train."
+  ],
+  "answer": [
+    "The man was in a tunnel and, in order to save his own life, he had to run along the rails to meet the train. When the tunnel was over, he was able to jump off the rails. And thanks to that, he remained alive."
+  ],
+  "story_keys": "- Man was walking along the train rails.\n- He saw a train coming towards him.\n- He then started to run to meet the approaching train.",
+  "answer_keys": "1. The man was in a tunnel and needed to save his life.\n2. He ran along the rails to meet the train.\n3. After the tunnel ended, he jumped off the rails.\n4. His actions allowed him to remain alive.",
+  "likes": "58% users",
+  "solving_time": "16 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "Over 80 percent of Greenland is covered in ice. But why then it was called Greenland (a green land)? "
+  ],
+  "answer": [
+    "The name Greenland comes from Scandinavian settlers. In the Norse sagas, it is said that Erik the Red was exiled from Iceland for murder. He set out in ships to find land rumoured to be to the northwest. After settling there, he named the land Grfnland (Greenland) to attract more people to settle there. "
+  ],
+  "story_keys": "- Over 80 percent of Greenland is covered in ice.\n- There is a question about why it's called Greenland despite being mostly ice-covered.",
+  "answer_keys": "- The name Greenland originates from Scandinavian settlers.\n- Erik the Red, who was exiled from Iceland for murder, is credited for naming it.\n- Erik the Red set out to find land rumored to be to the northwest of where he was exiled.\n- After settling on the newly discovered land, he named it Greenland to attract more settlers.",
+  "likes": "57% users",
+  "solving_time": "6 minutes",
+  "level": "4/10 medium",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "Peter wins the raffle and commits suicide. "
+  ],
+  "answer": [
+    "A group of people were snowed in. They decided to do a raffle to decide who should die so the others could eat his/her corpse to stay alive. Peter's name was selected so he had to take his own life."
+  ],
+  "story_keys": "- Peter wins a raffle\n- Peter commits suicide",
+  "answer_keys": "1. A group of people were trapped due to heavy snow. \n2. In order to survive, they decided to hold a raffle to determine who would be scarified for cannibalism.\n3. Peter's name was drawn in the raffle.\n4. Consequently, Peter was forced to commit suicide.",
+  "likes": "57% users",
+  "solving_time": "7 minutes",
+  "level": "6/10 medium",
+  "date": "03 March 2018"
+}
+{
+  "story": [
+    "A man is running, a crowd is running after him. The man is screaming to the crowd:\"You will never see the gold!\" and he starts shooting. People who observe all that are exulting."
+  ],
+  "answer": [
+    "It was the biathlon. "
+  ],
+  "story_keys": "1. A man is running with a crowd chasing him.\n2. The man shouts to the crowd that they will never see the gold.\n3. The man begins shooting.\n4. Observers react to the situation with excitement.",
+  "answer_keys": "The event was a biathlon.",
+  "likes": "56% users",
+  "solving_time": "7 minutes",
+  "level": "5/10 medium",
+  "date": "18 January 2018"
+}
+{
+  "story": [
+    "Taxi stops, the taxi driver opens the door and a dead men falls on the road. What had happened?"
+  ],
+  "answer": [
+    "The previous passenger was a spider lover and he forgot a box with his spider there. This dead men panicked when he saw it and so he was bitten by apoisonous spider."
+  ],
+  "story_keys": "1. A taxi stops.\n2. The taxi driver opens the door.\n3. A dead man falls out onto the road.\n4. It's unclear what happened to cause this.",
+  "answer_keys": "- The previous passenger was a spider lover.\n- He forgot a box with his spider.\n- The subsequent person panicked upon seeing the spider. \n- This person was bitten by the poisonous spider.",
+  "likes": "56% users",
+  "solving_time": "29 minutes",
+  "level": "6/10 medium",
+  "date": "05 September 2022"
+}
+{
+  "story": [
+    "A man goes to the doctor to get the results of some previous tests. The results do not show up any health issues. However, he commits suicide shortly after the visit."
+  ],
+  "answer": [
+    "The patient knew that his wife was cheating on him, but he only knew the lover's name. His wife swore to him that this lover did not exist. However when the man left the doctor's, he saw the lover's name on the report. He realized his wife was cheating on him with the doctor and could not cope with it. "
+  ],
+  "story_keys": "1. A man visits a doctor to learn the outcomes of some previous tests.\n2. The test results reveal no health issues. \n3. Despite the good health report, the man commits suicide after the doctor's visit.",
+  "answer_keys": "1. The patient suspected his wife was cheating on him with a man whose name he knew.\n2. His wife denied the existence of this other man.\n3. The patient found the name of his wife's supposed lover on his doctor's report.\n4. He concluded that his wife was cheating on him with his doctor.\n5. The patient struggled to deal with this realization.",
+  "likes": "54% users",
+  "solving_time": "16 minutes",
+  "level": "7/10 Hard",
+  "date": "04 January 2018"
+}
+{
+  "story": [
+    "A woman jumps from a windowshell, on a 6th floor. However, she is not injured in any way."
+  ],
+  "answer": [
+    "The woman was about to commit suicide but she changed her mind in the last minute and decided to jump back into her apartment."
+  ],
+  "story_keys": "1. A woman jumps from a windowshell on the 6th floor.\n2. She is not injured in any way.",
+  "answer_keys": "- The woman was about to commit suicide.\n- She changed her mind in the last minute.\n- She decided to jump back into her apartment instead of committing suicide.",
+  "likes": "53% users",
+  "solving_time": "10 minutes",
+  "level": "4/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "Aborigines lived on an island in the middle of the ocean. However, they found a way to get rich. How did they do it?"
+  ],
+  "answer": [],
+  "story_keys": "- Aborigines lived on an island in the middle of the ocean.\n- The Aborigines found a way to become rich.\n- The method of how the Aborigines got rich is in question.",
+  "answer_keys": "As an AI, I need you to provide the sentence first, so I could extract key points from it.",
+  "likes": "53% users",
+  "solving_time": "33 minutes",
+  "level": "9/10 Hard",
+  "date": "24 February 2021"
+}
+{
+  "story": [
+    "The man received the parcel in which he found a dead mouse. He reported this to the police, and the sender of this parcel was found guilty of fraud."
+  ],
+  "answer": [
+    "The sender was supposed to send the jewels to this man. He hoped that the mouse would gnaw a hole in the box and run away, and nobody could blame on him for the loss."
+  ],
+  "story_keys": "1. A man received a parcel containing a dead mouse.\n2. He reported the incident to the police.\n3. The sender of the parcel was found guilty of fraud.",
+  "answer_keys": "-The sender was expected to send jewels to a man.\n-The sender hoped that a mouse would gnaw a hole in the box containing the jewels, leading to a loss.\n-The sender hoped to avoid blame if the loss occurred.",
+  "likes": "52% users",
+  "solving_time": "19 minutes",
+  "level": "6/10 medium",
+  "date": "20 January 2018"
+}
+{
+  "story": [
+    "A person called the police and told them to ask about John K. Upon arrival at John\u2019s house, the police found him dead. Examining the corpse, the police discovered severe injuries. But the apartment was in perfect order, without any signs of a struggle or break-in."
+  ],
+  "answer": [
+    "A driver hit a passerby at night, found his address in the documents, discovered that he lived alone, and took him home."
+  ],
+  "story_keys": "1. An individual alerted the police about John K.\n2. Upon arrival, police found John K. dead in his house.\n3. John K.'s body bore severe injuries.\n4. Despite John K.'s condition, his apartment showed no signs of a struggle or break-in.",
+  "answer_keys": "- A driver hit a passerby at night\n- The driver found the passerby's address in his documents\n- The driver discovered that the passerby lived alone\n- The driver took the injured passerby home",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "6/10 medium",
+  "date": "20 January 2018"
+}
+{
+  "story": [
+    "Why Alexander the Great told his army to shave off their beards?"
+  ],
+  "answer": [],
+  "story_keys": "The key point is: Alexander the Great instructing his army to shave their beards.",
+  "answer_keys": "As the text for processing is not provided, I'm unable to provide the key points. Please provide a sentence or passage for me to analyze.",
+  "likes": "50% users",
+  "solving_time": "27 minutes",
+  "level": "8/10 Hard",
+  "date": "27 January 2018"
+}
+{
+  "story": [
+    "When kids were watching TV, they were not frigthened so much. But when they saw others suffering, they realized that something was not right. "
+  ],
+  "answer": [
+    "It was an experiment when kids were giving blood. It showed that the kids were feeling better during this process if they were watching TV rather than if they were supported by their parents. "
+  ],
+  "story_keys": "1. Kids were not frightened while watching TV.\n2. Children understood something was wrong upon seeing others suffer.",
+  "answer_keys": "1. The sentence is describing an experiment involving kids giving blood.\n2. The result of the experiment showed that the kids felt better when they were watching TV during the process.\n3. Kids were found to feel better watching TV than receiving support from their parents during the blood donation process.",
+  "likes": "50% users",
+  "solving_time": "13 minutes",
+  "level": "7/10 Hard",
+  "date": "27 January 2018"
+}
+{
+  "story": [],
+  "answer": [
+    "The man picks up a piece of wood and lights it from the fire on the west end of the island. He then quickly carries it near the east end of he island and starts a new fire. The wind will cause that fire to burn out the eastern end and he can then shelter in the burnt area."
+  ],
+  "story_keys": "You didn't provide a sentence to analyze. Please provide a sentence so I can identify the key points.",
+  "answer_keys": "- The man picks up a piece of wood and lights it from a fire on the island's west end.\n- The man quickly carries the burning wood to the east end of the island to start a new fire.\n- The wind is expected to spread the fire, burning out the eastern end of the island.\n- The man plans to shelter in the burnt area.",
+  "likes": "50% users",
+  "solving_time": "21 minutes",
+  "level": "8/10 Hard",
+  "date": "10 February 2018"
+}
+{
+  "story": [
+    "A man smashes Jimmy's luxury car. Althought Jimmy saw his car get smashed he made no attempt to stop the man."
+  ],
+  "answer": [
+    "Jimmy and the other man had a bet. It was agreed that the winner of the bet would smash the loser's car. Jimmy lost the bet."
+  ],
+  "story_keys": "1. A man smashes Jimmy's luxury car.\n2. Jimmy witnesses the act of his car being smashed.\n3. Despite witnessing the act, Jimmy makes no attempt to stop the man.",
+  "answer_keys": "1. Jimmy and another man made a bet.\n2. The agreement was that the winner would smash the loser's car.\n3. Jimmy lost the bet.",
+  "likes": "50% users",
+  "solving_time": "9 minutes",
+  "level": "4/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "There were many reasons why John enjoyed coming here. But his wife Mary hated this place, as did other women in the city. Why?"
+  ],
+  "answer": [
+    "This situation puzzle is about a real geographical object. In Stockholm, there\u2019s a narrow \u2013 no more than a meter wide \u2013 street that leads to a drinking place. It was very popular in the 18th century, as drunkards could hold on to the walls when walking along the street. However, their wives couldn\u2019t enter this street, because their hooped dresses got stuck between the walls."
+  ],
+  "story_keys": "1. John enjoyed going to a certain place.\n2. John's wife Mary and other women in the city dislike this place.\n3. The reason for their dislike is questioned.",
+  "answer_keys": "- The situation puzzle is about a real geographical object.\n- The object is a narrow street in Stockholm, no more than a meter wide. \n- This street leads to a drinking place. \n- The street was very popular in the 18th century because drunkards could hold on to the walls when walking. \n- However, women, particularly those in hooped dresses, were unable to enter this street because the dresses got stuck between the walls.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "8/10 Hard",
+  "date": "16 April 2018"
+}
+{
+  "story": [
+    "George was late for a math class and misunderstood the teacher. This brought him a reward and recognition! What happened?"
+  ],
+  "answer": [
+    "Once, the American mathematician George Danzig came very late for a class. He saw some problems written on the blackboard and decided that these were a homework task. He spent several days working on them and eventually found the answers. It turned out that he found the key to two \u201cunsolvable\u201d problems that many scientists were wrestling with."
+  ],
+  "story_keys": "- George was late for a math class\n- He misunderstood the teacher\n- As a result, he received a reward and recognition.",
+  "answer_keys": "- The American mathematician George Danzig once arrived late to a class.\n- He saw some problems written on the blackboard and thought they were homework. \n- Danzig worked on these problems for several days and found the answers. \n- He unknowingly solved two \"unsolvable\" problems that many scientists were trying to solve.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "4/10 medium",
+  "date": "16 April 2018"
+}
+{
+  "story": [
+    "An artist took an order to paint a portrait of a very ugly and arrogant woman. Everyone tried to dissuade him, claiming that she wouldn\u2019t pay a penny, because the portrait would be bad. And so it happened. But two days later, the woman returned and begged the artist to sell her the portrait. Why?"
+  ],
+  "answer": [
+    "The artist sent the portrait to an exhibition and called it The Penny Pincher. It triggered gossips, and the woman had to ask the artist to remove the portrait from the exhibition."
+  ],
+  "story_keys": "- An artist accepted a job to paint a portrait of a woman described as ugly and arrogant.\n- People warned him that she wouldn't pay for the portrait as it would not be flattering.\n- The woman indeed didn't pay initially, but returned two days later requesting to buy the portrait.",
+  "answer_keys": "- The artist sent a portrait to an exhibition, entitled The Penny Pincher.\n- The portrait triggered gossips.\n- The woman, presumably the subject of the portrait, asked the artist to remove it from the exhibition.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "6/10 medium",
+  "date": "16 April 2018"
+}
+{
+  "story": [
+    "A dinner at a dormitory. The light went out. When they turned on the light, a student had blood all over his hands."
+  ],
+  "answer": [
+    "There was the last sausage left on the plate. When the light went out, all the students reached for the sausage with their forks, and this one with his hands."
+  ],
+  "story_keys": "1. A dinner was taking place in a dormitory.\n2. The light in the dormitory went out unexpectedly.\n3. When the light was turned back on, a student was found with blood all over his hands.",
+  "answer_keys": "- The last sausage remained on the plate.\n- The light suddenly went out.\n- All students reached for the sausage simultaneously.\n- One student chose to use hands instead of a fork.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "6/10 medium",
+  "date": "25 August 2019"
+}
+{
+  "story": [
+    "Many people were surprised when a famous town merchant named Bill rolled out a barrel of honey to the square and offered everyone a treat."
+  ],
+  "answer": [
+    "Bill has been selling honey for many years. He scooped the product up with a measuring cup and poured it into a buyer\u2019s jug."
+  ],
+  "story_keys": "-A famous town merchant named Bill surprised many people by rolling a barrel of honey to the square and offering everyone a treat.",
+  "answer_keys": "- Bill has extensive experience in selling honey.\n- Bill uses a measuring cup to scoop up the honey.\n- The honey is poured into the buyer's jug for sale.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "8/10 Hard",
+  "date": "14 September 2020"
+}
+{
+  "story": [
+    "A man looked out of the window and soon died. What happened?"
+  ],
+  "answer": [
+    "Through the window of his car, he saw a pretty woman and had a fatal accident."
+  ],
+  "story_keys": "- A man looked out of the window.\n- The man soon died after looking out the window. \n- There is a question about what caused the man's death.",
+  "answer_keys": "- A man observed a pretty woman through his car window.\n- The man experienced a fatal accident.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "3/10 Easy",
+  "date": "02 February 2022"
+}
+{
+  "story": [
+    "The killer was severely punished by his victim. Plus, instantly. How?"
+  ],
+  "answer": [
+    "The man wanted to knock a snowman down with his car and gathered fairish speed. But it turned out that in the middle of the snowman there was an iron pole sticking out of the ground."
+  ],
+  "story_keys": "The key point is the killer received severe and instant punishment by his victim. The \"how?\" expresses confusion or curiosity about how this happened.",
+  "answer_keys": "1. The man intends to knock down a snowman using his car and gathers considerable speed.\n2. Upon reaching the snowman, he discovers an iron pole in the middle of it, protruding from the ground.",
+  "likes": "50% users",
+  "solving_time": "4 minutes",
+  "level": "7/10 Hard",
+  "date": "16 April 2022"
+}
+{
+  "story": [
+    "They had to throw away plenty of their valuables, but it didn\u2019t made them upset. What happened?"
+  ],
+  "answer": [
+    "They smuggled alcohol at the Prohibition time in the United States. They were ready for unexpected customs control. They tied bags of salt to each box in advance. In case of danger, they threw them into the water. After a while, salt dissolved in the water and the cargo floated back to the surface."
+  ],
+  "story_keys": "Someone had to dispose of many of their valuables which, surprisingly, did not upset them. The circumstances behind this event are not explained.\n",
+  "answer_keys": "- Alcohol was smuggled during Prohibition in the United States.\n- The smugglers were prepared for unexpected customs control.\n- They would tie bags of salt to each box of smuggled goods.\n- If they were in danger of being caught, they would throw the boxes into the water.\n- The salt in the bags would dissolve in the water, causing the cargo to float back to the surface eventually.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "7/10 Hard",
+  "date": "19 November 2022"
+}
+{
+  "story": [
+    "Gabriela's decision to stop moving saved her life."
+  ],
+  "answer": [
+    "Gabriela was in a swamp and found herself stuck in quicksand. She moved slowly so that she could wait until somebody rescued her."
+  ],
+  "story_keys": "Gabriela's life was saved by her decision to stop moving.",
+  "answer_keys": "- Gabriela was stuck in quicksand in a swamp.\n- She moved slowly to wait for somebody to rescue her.",
+  "likes": "50% users",
+  "solving_time": "7 minutes",
+  "level": "4/10 medium",
+  "date": "28 April 2023"
+}
+{
+  "story": [
+    "Alexander shot at the king, but no one condemned him. Why?"
+  ],
+  "answer": [
+    "Alexander played poker and lost. Out of anger he shot at the card depicting the king."
+  ],
+  "story_keys": "- Alexander shot at the king.\n- No one condemned Alexander for shooting at the king.\n- The reason for lack of condemnation is questioned.",
+  "answer_keys": "- Alexander played poker.\n- Alexander lost the poker game.\n- He became angry due to his loss.\n- In his anger, Alexander shot at the card showing the king.",
+  "likes": "50% users",
+  "solving_time": "5 minutes",
+  "level": "4/10 medium",
+  "date": "20 May 2023"
+}
+{
+  "story": [
+    "A horse is tied to a 15 ft. rope and there is a bail of hay 25 ft. away from him, yet the horse is able to eat from the bail of hay. How is this possible?"
+  ],
+  "answer": [
+    "The horse is ties to one end of the rope but the other end of the rope is not tied to anything so the horse walks over and eats the hay."
+  ],
+  "story_keys": "- A horse is tied to a 15 ft. rope.\n- There is a bail of hay 25 ft. away from the horse.\n- The horse is able to eat from the bail of hay. \n- The sentence is posing a question about how this situation is possible.",
+  "answer_keys": "- The horse is tied to one end of the rope. \n- The other end of the rope is not tied to anything.\n- The horse walks over and eats the hay.",
+  "likes": "50% users",
+  "solving_time": "1 minute",
+  "level": "1/10 Easy",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "You are driving down the road in your car on a wild, stormy night, when you pass by a bus stop and you see three people waiting for the bus: An old lady, an old friend who once saved your life and the perfect partner you have been dreaming about. There can only be one passenger in your car, whom do you choose?"
+  ],
+  "answer": [
+    "The old lady of course! After helping the old lady into the car, you can give your keys to your friend and have him drive the old lady. You get to wait for the next bus with your perfect partner."
+  ],
+  "story_keys": "The speaker is posing a hypothetical scenario where the listener is driving on a stormy night and encounters three individuals at a bus stop - an old lady, a friend who once saved their life, and their dream partner, but can only offer a ride to one of them. The speaker is asking whom the listener would choose.",
+  "answer_keys": "1. The subject helps an old lady into a car.\n2. They give their keys to their friend to drive the old lady.\n3. They end up waiting for the next bus with their perfect partner.",
+  "likes": "50% users",
+  "solving_time": "2 minutes",
+  "level": "5/10 medium",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A New York city hairdresser recently said that he would rather cut the hair of 3 Canadians rather than cut the hair of one New Yorker. Why?"
+  ],
+  "answer": [
+    "He would rather earn three times as much money!"
+  ],
+  "story_keys": "A New York city hairdresser expressed preference for cutting the hair of 3 Canadians over one New Yorker.",
+  "answer_keys": "The person prefers to earn three times more money than his current income.",
+  "likes": "50% users",
+  "solving_time": "2 minutes",
+  "level": "3/10 Easy",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "The woman is speaking something and she is upset. Nobody can understand her but a man is filming her on camera. Why? And what is happening? "
+  ],
+  "answer": [],
+  "story_keys": "- A woman is speaking and is upset.\n- No one can understand what she's saying.\n- A man is filming her actions on camera.\n- It's unclear why this is happening.",
+  "answer_keys": "Apologies, but I cannot provide a key point without a provided sentence. Please provide further information.",
+  "likes": "42% users",
+  "solving_time": "39 minutes",
+  "level": "5/10 medium",
+  "date": "27 January 2018"
+}
+{
+  "story": [
+    "The man was afraid to go home because the man in the mask was there."
+  ],
+  "answer": [
+    "They are playing baseball. The man in the mask is the catcher. The other man is afraid to advance to home base."
+  ],
+  "story_keys": "- The man doesn't want to go home\n- There is a man in a mask present at his home\n- This situation is causing fear for the man.",
+  "answer_keys": "1. People are playing baseball.\n2. The man wearing a mask is playing as the catcher.\n3. The other man is scared to advance to home base.",
+  "likes": "40% users",
+  "solving_time": "10 minutes",
+  "level": "8/10 Hard",
+  "date": "05 November 2023"
+}
+{
+  "story": [
+    "A man buys rice at $1 a pound from American growers and sells it for 2 cents a pound. As a result of this he becomes a millionaire. How could this be?"
+  ],
+  "answer": [
+    "The man is a philanthropist who bought the rice to sell to poor people at prices they could afford. He started out as a billionaire, but lost so much money in his good works that he became a millionaire! (this is Warren Buffets goal)"
+  ],
+  "story_keys": "- A man buys rice for $1 a pound from American growers.\n- He sells the rice for 2 cents a pound.\n- Despite selling at a lower price, he becomes a millionaire.",
+  "answer_keys": "1. The man is a philanthropist.\n2. He bought rice to sell to poor people at affordable prices.\n3. The man initially was a billionaire.\n4. He lost a significant amount of money due to his philanthropic work and became a millionaire.\n5. The described philanthropic goal aligns with that of investor Warren Buffet.",
+  "likes": "40% users",
+  "solving_time": "15 minutes",
+  "level": "6/10 medium",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A woman asks questions to her friend - a policeman - about a strange death. After 5 minutes the policeman is surprised to see that the woman finds out the cause of the death."
+  ],
+  "answer": [
+    "The woman and the policeman were friends and they were playing \"situation puzzle\". The policeman told a story and thought that his friend could not solve it. He was very surprised when the woman, after a few questions, found out the solution. "
+  ],
+  "story_keys": "1. A woman is asking her policeman friend questions about a strange death.\n2. The woman discovers the cause of death within 5 minutes.\n3. Her quick deduction surprises the policeman friend.",
+  "answer_keys": "- The woman and the policeman are friends.\n- They were playing \"situation puzzle\".\n- The policeman told a story and believed his friend could not solve it.\n- The woman solved the story puzzle after asking a few questions.\n- The policeman was very surprised that the woman solved the puzzle.",
+  "likes": "37% users",
+  "solving_time": "27 minutes",
+  "level": "5/10 medium",
+  "date": "17 March 2018"
+}
+{
+  "story": [
+    "A man was born in 1972 and dies in 1952 at the age of 25. How can this be?"
+  ],
+  "answer": [
+    "He's born in room number 1972 of a hospital and dies in room number 1952."
+  ],
+  "story_keys": "The sentence contains a paradox about a man's lifespan which states he was born in 1972, died in 1952 and was 25 years old, which is logically impossible.",
+  "answer_keys": "The person was born in hospital room number 1972 and dies in hospital room number 1952.",
+  "likes": "37% users",
+  "solving_time": "6 minutes",
+  "level": "5/10 medium",
+  "date": "07 November 2023"
+}
+{
+  "story": [
+    "The cadets became the cause of a mass buying up of salt in the whole city."
+  ],
+  "answer": [
+    "Cadets were supposed to shovel the snow. But they were lazy so they strew the ground with salt. They bought lots of salt to perfrom it. When old people saw military men buying lots of salt, they thought there'll be a war soon and began to wreak havoc and buy up salt. "
+  ],
+  "story_keys": "- Cadets triggered a mass purchase of salt in the entire city.",
+  "answer_keys": "1. Cadets were tasked with shoveling snow.\n2. The cadets were lazy and decided to use salt instead.\n3. The cadets bought a lot of salt to aid in their task.\n4. Elderly community members observed the cadets buying large amounts of salt.\n5. The elderly thought the large salt purchase indicated an imminent war.\n6. The elderly subsequently created chaos and started to bulk buy salt.",
+  "likes": "33% users",
+  "solving_time": "7 minutes",
+  "level": "4/10 medium",
+  "date": "04 March 2018"
+}
+{
+  "story": [
+    "Why is it better to have round manhole covers than square ones?"
+  ],
+  "answer": [
+    "A square manhole cover can be turned and dropped down the diagonal of the manhole. A round manhole cover cannot be dropped down the manhole. So for safety reasons, all manhole covers should be round."
+  ],
+  "story_keys": "The key point is inquiring why round manhole covers are considered superior to square ones.",
+  "answer_keys": "1. A square manhole cover can be dropped down the manhole through its diagonal.\n2. A round manhole cover can't be dropped down the manhole.\n3. For safety reasons, all manhole covers should be round.",
+  "likes": "33% users",
+  "solving_time": "5 minutes",
+  "level": "4/10 medium",
+  "date": "23 July 2023"
+}
+{
+  "story": [
+    "A prisoner was put in an escape-proof cell and told that he would be pardoned if he could break out. He was also given permission to keep any plants he wished in his cell. He was released in less than a week. How did he di it?"
+  ],
+  "answer": [
+    "He requested a poison ivy plant. Soon after receiving it, he broke out \u2014 in a rash. Of course, he then received his pardon."
+  ],
+  "story_keys": "1. A prisoner was placed in an escape-proof cell.\n2. The prisoner was told he would be pardoned if he could break out.\n3. The prisoner was allowed to keep any plants in his cell.\n4. The prisoner was released in less than a week. \n5. It's unclear how the prisoner escaped.",
+  "answer_keys": "1. The individual requested a poison ivy plant.\n2. He developed a rash after receiving the poison ivy plant.\n3. He received a pardon following the incident.",
+  "likes": "33% users",
+  "solving_time": "20 minutes",
+  "level": "7/10 Hard",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A man drives down the motorway at 70 miles per hour. He passes three cars going 80 miles per hour, then gets pulled over by a police officer and is given a ticket."
+  ],
+  "answer": [],
+  "story_keys": "- A man is driving down the motorway at 70 miles per hour.\n- He passes three cars going at 80 miles per hour.\n- He is pulled over by a police officer.\n- The man receives a ticket.",
+  "answer_keys": "You didn't provide any sentence to analyze key points from. Could you please provide a sentence?",
+  "likes": "33% users",
+  "solving_time": "2 minutes",
+  "level": "3/10 Easy",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A man comes up to the border of a neighboring country on his motorcycle. The customs officer at the border crossing stops him and searches the man. He finds nothing so he lets him cross. The next day the same thing happens. This goes on every day for several months. "
+  ],
+  "answer": [
+    "Motorcycles."
+  ],
+  "story_keys": "1. A man daily visits the border of a neighboring country on his motorcycle.\n2. Each time, the customs officer at the border crossing stops and searches him.\n3. The officer never finds anything incriminating on the man.\n4. The same situation continues every day for several months.",
+  "answer_keys": "The key point in the sentence is \"Motorcycles.\"",
+  "likes": "33% users",
+  "solving_time": "2 minutes",
+  "level": "2/10 Easy",
+  "date": "06 November 2023"
+}
+{
+  "story": [
+    "A woman in France in 1959 is waiting in her room, with all the doors locked from the inside, for her husband to come home. When he arrives, the house has burned to the ground and she's dead. How come?"
+  ],
+  "answer": [
+    "The hot sun reflected from the woman's large mirror (which may have been imperfectly flat and therefore focused the sunlight) and heated the lingerie she was wearing to the burning point. She was absorbed in a book at the time and didn't notice the heat until her clothing was afire. Nobody could get to her to help because her doors were locked from the inside."
+  ],
+  "story_keys": "1. The event takes place in France in 1959.\n2. A woman is waiting in her room with all doors locked from the inside.\n3. She is waiting for her husband to come home.\n4. When the husband arrives, he finds the house has burned to the ground.\n5. The woman is found dead.",
+  "answer_keys": "1. A woman's large mirror reflected the hot sun.\n2. The mirror, possibly imperfectly flat, might have focused the sunlight.\n3. The concentrated sunlight heated her lingerie to a burning point.\n4. The woman was so engrossed in a book that she didn't notice the building heat.\n5. Her clothing eventually caught fire.\n6. No one was able to help her because her doors were locked from the inside.",
+  "likes": "30% users",
+  "solving_time": "10 minutes",
+  "level": "7/10 Hard",
+  "date": "19 January 2022"
+}
+{
+  "story": [
+    "A woman enters a large metal tube. She is overcome with fear and clenches her boyfriend\u2019s hand tightly. She is visibly shaken. Her boyfriend gently rubs her arms and speaks softly to her, but is unaffected himself. A few hours later, the woman\u2019s boyfriend tells her that it\u2019s time to go and her torment ends. What was happening to the woman?"
+  ],
+  "answer": [
+    "The woman is terrified of flying but must travel to see a dying relative and this adds to her stress level. Her boyfriend does his best to comfort her during the few hours of the flight."
+  ],
+  "story_keys": "- A woman enters a large metal tube.\n- She is visibly scared and holding onto her boyfriend's hand.\n- Her boyfriend is unperturbed and tries to comfort her.\n- A few hours later, her boyfriend tells her it's time to leave.\n- The woman's feared experience comes to an end.",
+  "answer_keys": "1. The woman is extremely scared of flying.\n2. She needs to travel to see a relative who is dying.\n3. This situation increases her stress level.\n4. Her boyfriend tries to comfort her during the duration of the flight.",
+  "likes": "25% users",
+  "solving_time": "2 minutes",
+  "level": "2/10 Easy",
+  "date": "26 July 2023"
+}
