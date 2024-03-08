@@ -33,9 +33,24 @@ whitespace = 65
 ## Fills and centers each tab label with em-spaces
 tabs = st.tabs([s.center(whitespace,"\u2001") for s in listTabs])
 
-with tabs[0]:
-    # Add your content for Lifestory Simulator here
-    st.write("Lifestory Simulator content goes here.")
+# Using the first tab for Lifestory Simulator
+with tabs[0]:  
+    # Defining the choices for the user
+    gender = st.selectbox("Gender:", ('Male', 'Female'))
+    family = st.selectbox("Family:", ('Modest family', 'Wealthy family', 'Rural family', 'International family'))
+    parents_relationship = st.selectbox("Parents' relationship:", ('Happy and prosperous', 'Divorced but friendly', 'Tension and conflict', 'One of them died young', 'Unmarried children'))
+    live_in = st.selectbox("Live in:", ('Prosperous city', 'Small town community', 'Rural countryside', 'Small fishing village by the sea', 'Mountain jungle'))
+    siblings = st.selectbox("Siblings:", ('0', '1', '2', '3'))
+
+    # Start button
+    if st.button('Start'):
+        # You can replace 'url_to_gamepage' with the actual URL or path to your game page
+        # For example, you can display a message, redirect to another page, or start the game simulation based on the user's choices
+        st.success("Starting the game...")
+        # Redirect to the game page or initiate the game scenario
+        # For demonstration, we just print the choices
+        st.write(f"Selected options: Gender: {gender}, Family: {family}, Parents' relationship: {parents_relationship}, Live in: {live_in}, Siblings: {siblings}")
+        # In actual application, you might redirect or start simulation here
     
 
 with tabs[1]:
