@@ -4,12 +4,11 @@ import streamlit as st
 st.set_page_config(page_title="Storyverse", layout="wide")
 
 # Using HTML and CSS for background image in title and subheader
-# Using HTML and CSS for a shared background image for title and subheader
 st.markdown(
     """
     <style>
     .bg-section {
-        background-image: url('https://images.unsplash.com/photo-1542281286-9e0a16bb7366');
+        background-image: url('https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/background.webp');
         background-size: cover;
         padding: 50px;
         text-align: center;
@@ -17,22 +16,29 @@ st.markdown(
     }
     </style>
     <div class="bg-section">
-        <h1>Storyverse</h1>
-        <h2>Begin your journey in Storyverse...</h2>
+        <h1 style="color: white;">Storyverse</h1>
+        <h2 style="color: white;">Begin your journey in Storyverse...</h2>
     </div>
     """,
     unsafe_allow_html=True,
 )
 
 
-# Tabs centered workaround
-tab1, tab2 = st.tabs(["Lifestory Simulator", "Lateral Thinking Puzzle"])
+# Initialize tab labels and the amount of whitespace
+listTabs = ["Lifestory Simulator", "Lateral Thinking Puzzle"]
+whitespace = 65
 
-with tab1:
+
+
+## Fills and centers each tab label with em-spaces
+tabs = st.tabs([s.center(whitespace,"\u2001") for s in listTabs])
+
+with tabs[0]:
     # Add your content for Lifestory Simulator here
     st.write("Lifestory Simulator content goes here.")
+    
 
-with tab2:
+with tabs[1]:
     # Add your content for Lateral Thinking Puzzle here
     st.write("Lateral Thinking Puzzle content goes here.")
     user = "@Mkw24"
