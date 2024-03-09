@@ -81,15 +81,15 @@ image_url_pairs = [
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1"),
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2"),
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/woman%20fishing.webp", "url_to_link_4"),
-    ("path_to_image_5", "url_to_link_5"),
-    ("path_to_image_6", "url_to_link_6"),
-    ("path_to_image_7", "url_to_link_7"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/village%20girl.webp", "url_to_link_4"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/nightstory.webp", "url_to_link_5"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/highheel.webp", "url_to_link_6"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/field%20package.webp", "url_to_link_7"),
     ("path_to_image_8", "url_to_link_8"),
 ]
 
 # Specify the fixed size for the images
-image_size = "350px"  # You can change this to any size
+image_size = "300px"  # You can change this to any size
 
 # Create two rows with four columns each for the images
 for i in range(0, len(image_url_pairs), 4):
