@@ -67,9 +67,9 @@ st.subheader("Story Collection")
 # Define your images and URLs in pairs
 # Replace 'path_to_image' with your actual image paths and 'url_to_link' with the actual URLs
 image_url_pairs = [
-    ("path_to_image_1", "url_to_link_1"),
-    ("path_to_image_2", "url_to_link_2"),
-    ("path_to_image_3", "url_to_link_3"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3"),
     ("path_to_image_4", "url_to_link_4"),
     ("path_to_image_5", "url_to_link_5"),
     ("path_to_image_6", "url_to_link_6"),
@@ -77,12 +77,14 @@ image_url_pairs = [
     ("path_to_image_8", "url_to_link_8"),
 ]
 
+# Specify the fixed size for the images
+image_size = "350px"  # You can change this to any size
+
 # Create two rows with four columns each for the images
 for i in range(0, len(image_url_pairs), 4):
     cols = st.columns(4)
     for col, (image_path, url) in zip(cols, image_url_pairs[i:i+4]):
         with col:
-            # Display each image using Markdown to make it clickable
-            st.markdown(f"[![image]({image_path})]({url})", unsafe_allow_html=True)
-            # You can add captions or other text below each image as needed
+            # Display each image using Markdown with HTML to make it clickable and size-controlled
+            st.markdown(f"<a href='{url}' target='_blank'><img src='{image_path}' style='height: {image_size}; width: {image_size}; object-fit: cover; border-radius: 5%;'></a>", unsafe_allow_html=True)
 
