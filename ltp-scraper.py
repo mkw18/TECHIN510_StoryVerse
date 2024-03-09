@@ -18,8 +18,8 @@ for i in range(1, max_page+1):
     stories = re.findall(r'<a class="quest__link" href="(.+)">', page.text)
     for link in stories:
         game = requests.get(URL+link)
-        story = re.findall('<div class="quest__card__front quest__story quest__story_question">\n.+\n.+<p>(.+)</p>', game.text)
-        answer = re.findall('<div class="quest__card__back quest__story quest__story_answer">\n.+\n.+<p>(.+)</p>', game.text)
+        story = re.findall('<div class="quest__card__front quest__story quest__story_question">\n.+\n.+<p>(.+)</p>', game.text)[0]
+        answer = re.findall('<div class="quest__card__back quest__story quest__story_answer">\n.+\n.+<p>(.+)</p>', game.text)[0]
         eval = re.findall('<div class="quest__about__value">(.+)</div>', game.text)
         like, time, level, date = eval[0], eval[1], eval[2], eval[3]
         completion = client.chat.completions.create(
@@ -46,5 +46,14 @@ for i in range(1, max_page+1):
             'level': level,
             'date': date
         }
-        with open('data/details.json', 'a+') as f:
-            f.write(json.dumps(data, indent=2)+'\n')
+        if level[-4:] == 'Hard':
+            with open('data/hard.json', 'a+') as f:
+                f.write(json.dumps(data)+'\n')
+        elif level[-4:] == 'Easy':
+            with open('data/easy.json', 'a+') as f:
+                f.write(json.dumps(data)+'\n')
+        if level[-4:] == 'dium':
+            with open('data/medium.json', 'a+') as f:
+                f.write(json.dumps(data)+'\n')
+        # with open('data/details.json', 'a+') as f:
+        #     f.write(json.dumps(data, indent=2)+'\n')
