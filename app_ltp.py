@@ -1,60 +1,159 @@
-from tempfile import NamedTemporaryFile
 import os
-
+import random
 import streamlit as st
+import json
 from dotenv import load_dotenv
+from openai import OpenAI
 
 load_dotenv()
-
-from openai import OpenAI
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'), base_url=os.getenv('OPENAI_API_BASE'))
 
-# st.set_page_config(
-#     page_title="Story Verse",
-#     page_icon="🐢",
-#     layout="centered",
-#     initial_sidebar_state="auto",
-#     menu_items=None,
-# )
 st.set_page_config(layout="wide")
+
+def show_hide_answer():
+    with left_sidebar:
+        st.session_state.stroy_txt = st.empty()
+        st.session_state.stroy_txt.text_area('Story', value=st.session_state.story, height=299, disabled=True)
+    with right_sidebar:
+        st.session_state.answer_txt = st.empty()
+        if st.session_state.show_answer:
+            st.session_state.answer_txt.text_area('Answer', value='', height=299, disabled=True)
+        else:
+            st.session_state.answer_txt.text_area('Answer', value=st.session_state.answer, height=299, disabled=True)
+        st.session_state.show_answer = not st.session_state.show_answer
+
+def on_restart():
+    st.session_state.messages = st.session_state.messages[:10]
+    st.session_state.show_answer = True
+    show_hide_answer()
+
+def new_game():
+    line = json.loads(lines[st.session_state.index])
+    story, answer, story_keys, answer_keys = line['story'][0], line['answer'][0], line['story_keys'], line['answer_keys']
+    st.session_state.stroy_txt.text_area('Story', value=story, height=300, disabled=True)
+    st.session_state.answer_txt.text_area('Answer', value='', height=300, disabled=True)
+    hosting = [
+        {
+            "role": "user",
+            "content": f"I need you to be the host of a game called Lateral Thinking Puzzle.\n\nLateral Thinking "
+            f"Puzzle is a game consist of a story and a truth. Your story is: '{story}'\nYour t"
+            f"ruth is: '{answer}'\n\nHere are the game rules:\n{rules}\n\nDuring the game "
+            f"process, please adhere to the above game rules to ensure a positive gaming experience "
+            f"for the users. Pay close attention to the questions asked and ensure that your responses "
+            f"comply with both the game rules and the information from the truth. When a user requests "
+            f"to play the game, provide them with the story and help them guess the truth by answering "
+            f'with "yes", "no", or "irrelevant". Remember that with each response, you must fully '
+            f"understand and abide by the aforementioned game rules, as well as the story and the "
+            f"truth. This will ensure a smooth user experience and avoid situations where you cannot "
+            f"answer or violate the game rules.",
+        },
+        {
+            "role": "assistant",
+            "content": "Alright, I understand that my role is to be the host of the Lateral Thinking Puzzle and "
+            "help users guess the truth by answering their questions. I have fully grasped all the "
+            "information regarding the story and the truth and have carefully read all the rules. I "
+            "assure that I will abide by all the rules throughout the game process.",
+        },
+        {
+            "role": "user",
+            "content": "Please summarize the key points of the story to ensure that you have understood it.",
+        },
+        {"role": "assistant", "content": story_keys},
+        {
+            "role": "user",
+            "content": "Please summarize the key points of the truth to ensure that you have understood it.",
+        },
+        {"role": "assistant", "content": answer_keys},
+        {
+            "role": "user",
+            "content": "Please restate the rules to ensure that you have understood all of them.",
+        },
+        {"role": "assistant", "content": rules},
+        {
+            "role": "user",
+            "content": "Alright, we can now start the game. Remember, before each response, you should review the "
+            'key points of the story, the key points of the truth, and the rules. Answer with "yes", '
+            '"no", or "irrelevant".',
+        },
+        {
+            "role": "assistant",
+            "content": f"Alright, as the host of the game, I will adhere to the above rules and ensure that my "
+            f"responses comply with the rules and the information from the truth. Below is your story: "
+            f"\n{story}\n\nYou can start guessing the content of the truth, and I will answer your "
+            f'questions. Please note that your questions should be answerable with "yes", "no", '
+            f'or "irrelevant".',
+        },
+    ]
+    st.session_state.messages = hosting
+    st.session_state.index += 1
+    st.session_state.story = story
+    st.session_state.answer = answer
+
+def on_new_game():
+    new_game()
+    st.session_state.show_answer = True
+    show_hide_answer()
+
 left_sidebar, main_content, right_sidebar = st.columns([1, 4, 1])
+
+st.session_state.index = 0
+with open('data/medium.json') as f:
+    lines = f.readlines()
+    random.shuffle(lines)
 
 # Sidebar
 with left_sidebar:
     st.header("Menu")
-    st.button("Restart")
-    st.button("Pause")
+    st.button("Restart", on_click=on_restart)
+    st.button("New Game", on_click=on_new_game)
+    st.session_state.stroy_txt = st.empty()
 
-rules = "1. 你知道汤面和汤底，当用户需要玩海龟汤时，给予用户汤面，用户只知道汤面，不知道汤底。\n2. 用户提出可以用“是”、“否”、“无关”来回答的问题，用户提问是为了猜测到汤底，你根据汤底回答用户的提问，只能用“是”、“否”或“无关”回答用户，从而引导用户猜到正确的汤底。\n3. 如果用户直接以“为什么”的形式询问汤面的细节，请告知用户需要自己猜测。\n4. 你要充分理解和准确解读汤底的信息，根据汤底的信息和用户过往提问信息对用户的提问做出回答，用户的提问不一定包含汤底的信息，但是你的回答必须符合汤底的事实。\n5. 只有在汤底无法提供直接或间接的答案时，你才可以回答“无关”，注意这是回答“无关”的唯一条件，其他时候你要回答“是”或“否”。\n6. 你不能直接将汤底的信息告诉用户，就算用户直接问也不行。\n7. 要整体判断用户的提问，理解用户整体的意思，不可片面通过某一个点作答，所答必须符合汤底事实。\n8. 当用户在猜测汤底的过程中，猜到部分真相但与汤底的完整真相还有差距时，你可以提供一定的切入点提示，但不能直接透露汤底的信息。"
-prim_prompt = f"我需要你做一个游戏的主持人，游戏名叫海龟汤。\n\n海龟汤游戏由汤面和汤底组成，你的汤面是：“{story}”\n你的汤底是：“{answer}”\n\n游戏规则：\n{rules}\n\n游戏过程中，请你用以上游戏规则约束你的行为，因为这样可以为用户带来良好的游戏体验。仔细审题，确保回答符合游戏规则和汤底的信息，当用户发出游戏请求时，给出汤面，并通过回答“是”、“否”或“无关”帮助用户猜到汤底。注意每次回答你都必须确保自己充分理解并遵守了以上游戏规则和你的汤面及汤底，保证用户体验，不要出现无法回答的情况，更不要违反游戏规则。"
+# Scoreboard
+with right_sidebar:
+    st.header("Scoreboard")
+    scoreboard_placeholder = st.empty()
+    scoreboard_placeholder.text("This is a placeholder for the scoreboard")
+    answer_btn = st.button('Show Answer', on_click=show_hide_answer)
+    st.session_state.answer_txt = st.empty()
 
-hosting = [
-    {"role": "user", "content": prim_prompt},
-    {"role": "assistant", "content": "好的，我明白自己的角色是海龟汤游戏的主持人，要通过回答用户的问题帮助用户猜到汤底。我已充分理解汤面和汤底的所有信息，并认真阅读了所有规则，保证自己会在游戏过程中遵守所有规则。"},
-    {"role": "user", "content": "请总结汤面的关键点，以确保你理解了汤面。"},
-    {"role": "assistant", "content": story_key},
-    {"role": "user", "content": "请总结汤底的关键点，以确保你理解了汤底。"},
-    {"role": "assistant", "content": answer_key},
-    {"role": "user", "content": "请复述一遍规则，以确保你理解了所有规则。"},
-    {"role": "assistant", "content": rules},
-    {"role": "user", "content": "好的，我们现在可以开始游戏了。记住，每次回答前你要回顾汤面的关键点、汤底的关键点、规则，回答是或否或无关。"},
-    {"role": "assistant", "content": f"好的，作为游戏的主持人，我将遵守以上规则，并确保回答符合规则和汤底的信息。下面是你的汤面：\n{story}\n\n你可以开始猜测汤底的内容，我会回答你的问题。请注意，你的问题需要能够用“是”、“否”或“无关”来回答。"},
-]
+rules = (
+    '1. You know both the "story" and the "truth". When a user wants to play Lateral Thinking Puzzle, '
+    'you provide them with the "story". The user only knows the "story" and is unaware of the '
+    '"truth".\n2. The user asks questions that can be answered with "yes," "no," or "irrelevant". Their '
+    'questions are aimed at guessing the "truth". Based on the "truth", you respond to the user\'s '
+    'questions using "yes," "no," or "irrelevant" to guide them towards guessing the correct truth.\n3. '
+    'If the user directly asks for details about the truth using the form of "why" questions, inform them '
+    "that they need to make their own guesses.\n4. You must fully understand and accurately interpret the "
+    "information from the truth. Based on the information of the truth and the user's past questions, "
+    "you answer the user's questions. The user's questions may not necessarily contain information from "
+    "the truth, but your responses must align with the facts of the truth.\n5. You can only answer "
+    '"irrelevant" when the truth cannot provide a direct or indirect answer. Note that this is the only '
+    'condition for responding "irrelevant"; otherwise, you should answer "yes" or "no."\n6. You cannot '
+    "directly disclose the information from the truth to the user, even if they ask directly.\n7. You "
+    "need to judge the user's questions as a whole and understand their overall intent. Avoid answering "
+    "based solely on a particular point; your responses must align with the facts of the truth.\n8. "
+    "During the user's process of guessing the truth, if they come close to some truths but still have "
+    "gaps in understanding the complete truth of the truth, you can provide certain entry point hints. "
+    "However, you cannot directly reveal information from the truth."
+)
 
 with main_content:
     st.markdown("<h1 style='text-align: center; color: black;'>Lateral Thinking Puzzle</h1>", unsafe_allow_html=True)
     if "messages" not in st.session_state.keys():  # Initialize the chat messages history
-        st.session_state.messages = [
-            {"role": "assistant", "content": "Welcome to Lateral Thinking Puzzle!"}
-        ]
+        new_game()
+        st.session_state.show_answer = False
 
 if prompt := st.chat_input(
     "Your question"
 ):  # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state.show_answer = not st.session_state.show_answer
+    show_hide_answer()
 
 with main_content:
-    for message in st.session_state.messages:  # Display the prior chat messages
+    with st.chat_message("assistant"):
+        st.write(st.session_state.story)
+    for message in st.session_state.messages[10:]:  # Display the prior chat messages
         with st.chat_message(message["role"]):
             st.write(message["content"])
     # If last message is not from assistant, generate a new response
@@ -69,10 +168,3 @@ with main_content:
                 st.write(response)
                 message = {"role": "assistant", "content": response}
                 st.session_state.messages.append(message)  # Add response to message history
-
-# Scoreboard
-with right_sidebar:
-    st.header("Scoreboard")
-    scoreboard_placeholder = st.empty()
-    scoreboard_placeholder.text("This is a placeholder for the scoreboard")
-
