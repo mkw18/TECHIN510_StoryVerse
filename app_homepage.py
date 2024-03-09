@@ -70,7 +70,7 @@ image_url_pairs = [
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1"),
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2"),
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3"),
-    ("path_to_image_4", "url_to_link_4"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/woman%20fishing.webp", "url_to_link_4"),
     ("path_to_image_5", "url_to_link_5"),
     ("path_to_image_6", "url_to_link_6"),
     ("path_to_image_7", "url_to_link_7"),
@@ -87,4 +87,3 @@ for i in range(0, len(image_url_pairs), 4):
         with col:
             # Display each image using Markdown with HTML to make it clickable and size-controlled
             st.markdown(f"<a href='{url}' target='_blank'><img src='{image_path}' style='height: {image_size}; width: {image_size}; object-fit: cover; border-radius: 5%;'></a>", unsafe_allow_html=True)
-
