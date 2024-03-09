@@ -75,26 +75,46 @@ with tabs[1]:
 
 st.subheader("Story Collection")
 
-# Define your images and URLs in pairs
-# Replace 'path_to_image' with your actual image paths and 'url_to_link' with the actual URLs
+# Define your images, URLs, and descriptions in tuples
 image_url_pairs = [
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/village%20girl.webp", "url_to_link_4"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/nightstory.webp", "url_to_link_5"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/highheel.webp", "url_to_link_6"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/field%20package.webp", "url_to_link_7"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/ice.webp", "url_to_link_8"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1", "Description for Girl Ocean"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2", "Description for Jungle Boy"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3", "Description for Wealthy Man"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/village%20girl.webp", "url_to_link_4", "Description for Village Girl"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/nightstory.webp", "url_to_link_5", "Description for Night Story"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/highheel.webp", "url_to_link_6", "Description for High Heel"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/field%20package.webp", "url_to_link_7", "Description for Field Package"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/ice.webp", "url_to_link_8", "Description for Ice"),
 ]
 
 # Specify the fixed size for the images
-image_size = "300px"  # You can change this to any size
+image_size = "250px"  # You can change this to any size
 
 # Create two rows with four columns each for the images
 for i in range(0, len(image_url_pairs), 4):
     cols = st.columns(4)
-    for col, (image_path, url) in zip(cols, image_url_pairs[i:i+4]):
+    for col, (image_path, url, description) in zip(cols, image_url_pairs[i:i+4]):
         with col:
-            # Display each image using Markdown with HTML to make it clickable and size-controlled
-            st.markdown(f"<a href='{url}' target='_blank'><img src='{image_path}' style='height: {image_size}; width: {image_size}; object-fit: cover; border-radius: 5%;'></a>", unsafe_allow_html=True)
+            # Display each image with a hover effect for the description
+            hover_html = f"""
+            <div style='position: relative; display: inline-block;'>
+                <a href='{url}' target='_blank'>
+                    <img src='{image_path}' style='height: {image_size}; width: {image_size}; object-fit: cover; border-radius: 5%;'>
+                    <div style='position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); color: white; visibility: hidden; opacity: 0; transition: visibility 0s, opacity 0.5s ease; display: flex; justify-content: center; align-items: center; border-radius: 5%;'>
+                        <div style='text-align: center; padding: 20px;'>{description}</div>
+                    </div>
+                </a>
+                <script>
+                    const container = document.currentScript.parentElement;
+                    container.onmouseover = function() {{
+                        container.children[1].children[1].style.visibility = 'visible';
+                        container.children[1].children[1].style.opacity = '1';
+                    }}
+                    container.onmouseout = function() {{
+                        container.children[1].children[1].style.visibility = 'hidden';
+                        container.children[1].children[1].style.opacity = '0';
+                    }}
+                </script>
+            </div>
+            """
+            st.markdown(hover_html, unsafe_allow_html=True)
