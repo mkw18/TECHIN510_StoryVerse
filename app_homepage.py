@@ -1,7 +1,10 @@
 import streamlit as st
 
 # Set page config
-st.set_page_config(page_title="Storyverse", layout="wide")
+st.set_page_config(
+    page_title="Storyverse", 
+    layout="wide"
+)
 
 # Using HTML and CSS for background image in title and subheader
 st.markdown(
