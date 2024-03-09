@@ -43,7 +43,7 @@ with tabs[0]:
     siblings = st.selectbox("Siblings:", ('0', '1', '2', '3'))
 
     # Start button
-    if st.button('Start'):
+    if st.button('Start your Life Story'):
         # You can replace 'url_to_gamepage' with the actual URL or path to your game page
         # For example, you can display a message, redirect to another page, or start the game simulation based on the user's choices
         st.success("Starting the game...")
@@ -58,9 +58,17 @@ with tabs[1]:
     st.write("Lateral Thinking Puzzle content goes here.")
     user = "@Mkw24"
     score = 85  # Assuming this is fetched or calculated somehow
-    st.markdown(f"**{user}** Welcome back! your highest score in Lateral thinking puzzle is: **{score}**")
+    st.markdown(f"**{user}** Welcome back! Your highest score in Lateral thinking puzzle is: **{score}**")
     level = st.selectbox("Level", ["Easy mode", "Challenge mode", "Difficult mode"])
-    # You can add additional content or interactive elements for the puzzle here
+
+    # Start button
+    if st.button('Start Lateral Thinking Puzzle'):
+        # Here you can add actions that occur when the Start button is pressed
+        # For now, just display a simple message
+        st.success("Puzzle started at level: " + level)
+        # Add additional actions here, such as initializing puzzle game logic or redirecting to another page
+
+
 
 st.subheader("Story Collection")
 
