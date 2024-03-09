@@ -59,16 +59,30 @@ with tabs[1]:
     user = "@Mkw24"
     score = 85  # Assuming this is fetched or calculated somehow
     st.markdown(f"**{user}** Welcome back! your highest score in Lateral thinking puzzle is: **{score}**")
-    level = st.radio("Level", ["Easy mode", "Challenge mode", "Difficult mode"])
+    level = st.selectbox("Level", ["Easy mode", "Challenge mode", "Difficult mode"])
     # You can add additional content or interactive elements for the puzzle here
 
-# Story collection section
 st.subheader("Story Collection")
-# Layout for stories, assuming 4 stories per row as an example
-cols = st.columns(6)
-for i in range(6):  # Assuming we have 4 stories, you can adjust this number
-    with cols[i]:
-        # Placeholder or actual content for each story
-        st.image("files\img\girl ocean.webp", caption="Title or Date")  # Replace with actual path and title
-        # Add interactivity or details for each story
+
+# Define your images and URLs in pairs
+# Replace 'path_to_image' with your actual image paths and 'url_to_link' with the actual URLs
+image_url_pairs = [
+    ("path_to_image_1", "url_to_link_1"),
+    ("path_to_image_2", "url_to_link_2"),
+    ("path_to_image_3", "url_to_link_3"),
+    ("path_to_image_4", "url_to_link_4"),
+    ("path_to_image_5", "url_to_link_5"),
+    ("path_to_image_6", "url_to_link_6"),
+    ("path_to_image_7", "url_to_link_7"),
+    ("path_to_image_8", "url_to_link_8"),
+]
+
+# Create two rows with four columns each for the images
+for i in range(0, len(image_url_pairs), 4):
+    cols = st.columns(4)
+    for col, (image_path, url) in zip(cols, image_url_pairs[i:i+4]):
+        with col:
+            # Display each image using Markdown to make it clickable
+            st.markdown(f"[![image]({image_path})]({url})", unsafe_allow_html=True)
+            # You can add captions or other text below each image as needed
 
