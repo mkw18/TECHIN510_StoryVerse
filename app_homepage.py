@@ -85,7 +85,7 @@ image_url_pairs = [
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/nightstory.webp", "url_to_link_5"),
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/highheel.webp", "url_to_link_6"),
     ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/field%20package.webp", "url_to_link_7"),
-    ("path_to_image_8", "url_to_link_8"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/ice.webp", "url_to_link_8"),
 ]
 
 # Specify the fixed size for the images
