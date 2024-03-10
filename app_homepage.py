@@ -39,10 +39,10 @@ tabs = st.tabs([s.center(whitespace,"\u2001") for s in listTabs])
 # Using the first tab for Lifestory Simulator
 with tabs[0]:  
     # Defining the choices for the user
-    gender = st.selectbox("Gender:", ('Male', 'Female'))
+    gender = st.selectbox("Gender:", ('♂️Male', '♀️Female'))
     family = st.selectbox("Family:", ('Modest family', 'Wealthy family', 'Rural family', 'International family'))
     parents_relationship = st.selectbox("Parents' relationship:", ('Happy and prosperous', 'Divorced but friendly', 'Tension and conflict', 'One of them died young', 'Unmarried children'))
-    live_in = st.selectbox("Live in:", ('Prosperous city', 'Small town community', 'Rural countryside', 'Small fishing village by the sea', 'Mountain jungle'))
+    live_in = st.selectbox("Live in:", ('🌇Prosperous city', '🏘️Small town', '🛖Rural countryside', '🌊fishing village', '⛰️Mountain jungle'))
     siblings = st.selectbox("Siblings:", ('0', '1', '2', '3'))
 
     # Start button
@@ -62,7 +62,7 @@ with tabs[1]:
     user = "@Mkw24"
     score = 85  # Assuming this is fetched or calculated somehow
     st.markdown(f"**{user}** Welcome back! Your highest score in Lateral thinking puzzle is: **{score}**")
-    level = st.selectbox("Level", ["Easy mode", "Challenge mode", "Difficult mode"])
+    level = st.selectbox("Level", ["⭐Easy mode", "⭐⭐Challenge mode", "⭐⭐⭐Difficult mode"])
 
     # Start button
     if st.button('Start Lateral Thinking Puzzle'):
@@ -76,45 +76,31 @@ with tabs[1]:
 st.subheader("Story Collection")
 
 # Define your images, URLs, and descriptions in tuples
-image_url_pairs = [
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1", "Description for Girl Ocean"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2", "Description for Jungle Boy"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3", "Description for Wealthy Man"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/village%20girl.webp", "url_to_link_4", "Description for Village Girl"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/nightstory.webp", "url_to_link_5", "Description for Night Story"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/highheel.webp", "url_to_link_6", "Description for High Heel"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/field%20package.webp", "url_to_link_7", "Description for Field Package"),
-    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/ice.webp", "url_to_link_8", "Description for Ice"),
+# Add a third element to each tuple for the description
+image_url_descriptions = [
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/girl%20ocean.webp", "url_to_link_1", "Lifestory:Girl by the Ocean"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/jungle%20boy.webp", "url_to_link_2", "Lifestory:Jungle Boy"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/wealthy%20man.webp", "url_to_link_3", "Lifestory:Born with a golden spoon"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/village%20girl.webp", "url_to_link_4", "Lifestory:Village Girl"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/nightstory.webp", "url_to_link_5", "Puzzle:Night Story"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/highheel.webp", "url_to_link_6", "Puzzle:High Heel"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/field%20package.webp", "url_to_link_7", "Puzzle:Field Package"),
+    ("https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/ice.webp", "url_to_link_8", "Puzzle:Ice"),
 ]
 
 # Specify the fixed size for the images
-image_size = "250px"  # You can change this to any size
+image_size = "300px"  # You can change this to any size
 
 # Create two rows with four columns each for the images
-for i in range(0, len(image_url_pairs), 4):
+for i in range(0, len(image_url_descriptions), 4):
     cols = st.columns(4)
-    for col, (image_path, url, description) in zip(cols, image_url_pairs[i:i+4]):
+    for col, (image_path, url, description) in zip(cols, image_url_descriptions[i:i+4]):
         with col:
-            # Display each image with a hover effect for the description
-            hover_html = f"""
-            <div style='position: relative; display: inline-block;'>
-                <a href='{url}' target='_blank'>
-                    <img src='{image_path}' style='height: {image_size}; width: {image_size}; object-fit: cover; border-radius: 5%;'>
-                    <div style='position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); color: white; visibility: hidden; opacity: 0; transition: visibility 0s, opacity 0.5s ease; display: flex; justify-content: center; align-items: center; border-radius: 5%;'>
-                        <div style='text-align: center; padding: 20px;'>{description}</div>
-                    </div>
-                </a>
-                <script>
-                    const container = document.currentScript.parentElement;
-                    container.onmouseover = function() {{
-                        container.children[1].children[1].style.visibility = 'visible';
-                        container.children[1].children[1].style.opacity = '1';
-                    }}
-                    container.onmouseout = function() {{
-                        container.children[1].children[1].style.visibility = 'hidden';
-                        container.children[1].children[1].style.opacity = '0';
-                    }}
-                </script>
-            </div>
+            # Display each image with a description below it
+            markdown_html = f"""
+            <a href='{url}' target='_blank'>
+                <img src='{image_path}' style='height: {image_size}; width: {image_size}; object-fit: cover; border-radius: 5%;'>
+            </a>
+            <p style='text-align: left;'>{description}</p>
             """
-            st.markdown(hover_html, unsafe_allow_html=True)
+            st.markdown(markdown_html, unsafe_allow_html=True)
