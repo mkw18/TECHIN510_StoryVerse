@@ -29,7 +29,8 @@ If you encounter the following issues after running the code:
 - Unable to see the main page
 - Any errors on the subpages (set_config, 401 Error, list index out of range, etc)
 
-Please **keep refreshing** until you see the correct ![home page](https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/homepage.jpg), then enter the subpages to play the game.
+Please **keep refreshing** until you see the correct home page(as follow), then enter the subpages to play the game.
+![home page](https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/homepage.jpg)
 
 ## Reflections
 ### What you learned
