@@ -1,6 +1,6 @@
 # StoryVerse
 ## About this project
-StoryVerse is a text-based game platform containing two game themes, a lateral thinking puzzle and a life story generation simulator.
+StoryVerse is a text-based game platform containing two game themes, a lateral thinking puzzle and a life story generation simulator. 
 
 ## Technologies used
 - LLM
@@ -33,10 +33,11 @@ Please **keep refreshing** until you see the correct main page![main page]("file
 
 ## Reflections
 ### What you learned
-- How to use html in streamlit to accomplish advanced layout.
+- How to use html in streamlit to accomplish custom layout.
 - How to achieve page switching by button component in the web-page.
 - How to get the most wanted prompt for LLM.
 - How to maintain components in stramlit when they are affected by other actions.
+- How to use different streamlit components(tab，container, button...etc) to construct complexed functions.
 - How to update the value of streamlit web-page components.
 ### What questions/problems did you face?
 - The app is not so stable due to the streamlit, and sometimes it doesn't load the homepage at the first time and run into bug. When that happens, we need to refresh again and again for the correct page.
