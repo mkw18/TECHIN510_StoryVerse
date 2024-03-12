@@ -8,7 +8,7 @@ from openai import OpenAI
 load_dotenv()
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'), base_url=os.getenv('OPENAI_API_BASE'))
 
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")
 
 def ltp_page(level):
     def show_hide_answer():
@@ -38,7 +38,7 @@ def ltp_page(level):
         st.session_state.answer_txt.text_area('Answer', value='', height=300, disabled=True)
         hosting = [
             {
-                "role": "user",
+                "role": "system",
                 "content": f"I need you to be the host of a game called Lateral Thinking Puzzle.\n\nLateral Thinking "
                 f"Puzzle is a game consist of a story and a truth. Your story is: '{story}'\nYour t"
                 f"ruth is: '{answer}'\n\nHere are the game rules:\n{rules}\n\nDuring the game "

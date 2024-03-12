@@ -1,5 +1,6 @@
 import streamlit as st
 from app_ltp import ltp_page
+from app_ls import ls_page
 
 # Set page config
 st.set_page_config(
@@ -13,7 +14,13 @@ if 'page' not in st.session_state:
 def go_to_page(page_name):
     st.session_state.page = page_name
 
-if st.session_state.page == 'home':
+if st.session_state.page == 'ltp':
+    ltp_page(st.session_state.level)
+
+elif st.session_state.page == 'ls':
+    ls_page(st.session_state.gender, st.session_state.family, st.session_state.parents_relationship, st.session_state.live_in, st.session_state.siblings)
+
+else:
     # Using HTML and CSS for background image in title and subheader
     st.markdown(
         """
@@ -47,20 +54,20 @@ if st.session_state.page == 'home':
     # Using the first tab for Lifestory Simulator
     with tabs[0]:  
         # Defining the choices for the user
-        gender = st.selectbox("Gender:", ('♂️Male', '♀️Female'))
-        family = st.selectbox("Family:", ('Modest family', 'Wealthy family', 'Rural family', 'International family'))
-        parents_relationship = st.selectbox("Parents' relationship:", ('Happy and prosperous', 'Divorced but friendly', 'Tension and conflict', 'One of them died young', 'Unmarried children'))
-        live_in = st.selectbox("Live in:", ('🌇Prosperous city', '🏘️Small town', '🛖Rural countryside', '🌊fishing village', '⛰️Mountain jungle'))
-        siblings = st.selectbox("Siblings:", ('0', '1', '2', '3'))
+        st.session_state.gender = st.selectbox("Gender:", ('♂️Male', '♀️Female'))
+        st.session_state.family = st.selectbox("Family:", ('Modest family', 'Wealthy family', 'Rural family', 'International family'))
+        st.session_state.parents_relationship = st.selectbox("Parents' relationship:", ('Happy and prosperous', 'Divorced but friendly', 'Tension and conflict', 'One of them died young', 'Unmarried children'))
+        st.session_state.live_in = st.selectbox("Live in:", ('🌇Prosperous city', '🏘️Small town', '🛖Rural countryside', '🌊fishing village', '⛰️Mountain jungle'))
+        st.session_state.siblings = st.selectbox("Siblings:", ('0', '1', '2', '3'))
 
         # Start button
-        if st.button('Start your Life Story'):
+        if st.button('Start your Life Story', on_click=go_to_page, args=('ls',)):
             # You can replace 'url_to_gamepage' with the actual URL or path to your game page
             # For example, you can display a message, redirect to another page, or start the game simulation based on the user's choices
             st.success("Starting the game...")
             # Redirect to the game page or initiate the game scenario
             # For demonstration, we just print the choices
-            st.write(f"Selected options: Gender: {gender}, Family: {family}, Parents' relationship: {parents_relationship}, Live in: {live_in}, Siblings: {siblings}")
+            # st.write(f"Selected options: Gender: {gender}, Family: {family}, Parents' relationship: {parents_relationship}, Live in: {live_in}, Siblings: {siblings}")
             # In actual application, you might redirect or start simulation here
         
 
@@ -114,6 +121,3 @@ if st.session_state.page == 'home':
                 <p style='text-align: left;'>{description}</p>
                 """
                 st.markdown(markdown_html, unsafe_allow_html=True)
-
-elif st.session_state.page == 'ltp':
-    ltp_page(st.session_state.level)
