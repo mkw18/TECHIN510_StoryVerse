@@ -32,6 +32,8 @@ If you encounter the following issues after running the code:
 Please **keep refreshing** until you see the correct home page(as follow), then enter the subpages to play the game.
 ![home page](https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/homepage.jpg)
 
+If you want to come back to the homepage from any subpage, just refresh.
+
 ## Reflections
 ### What you learned
 - How to use html in streamlit to accomplish custom layout.
