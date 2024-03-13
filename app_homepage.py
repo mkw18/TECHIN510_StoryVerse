@@ -66,9 +66,6 @@ else:
             # For example, you can display a message, redirect to another page, or start the game simulation based on the user's choices
             st.success("Starting the game...")
             # Redirect to the game page or initiate the game scenario
-            # For demonstration, we just print the choices
-            # st.write(f"Selected options: Gender: {gender}, Family: {family}, Parents' relationship: {parents_relationship}, Live in: {live_in}, Siblings: {siblings}")
-            # In actual application, you might redirect or start simulation here
         
 
     with tabs[1]:
