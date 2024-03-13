@@ -24,14 +24,6 @@ streamlit run app_homepage.py
 ```
 
 **Note:** 
-If you encounter the following issues after running the code:
-
-- Unable to see the main page
-- Any errors on the subpages (set_config, 401 Error, list index out of range, etc)
-
-Please **keep refreshing** until you see the correct home page(as follow), then enter the subpages to play the game.
-![home page](https://raw.githubusercontent.com/mkw18/TECHIN510_StoryVerse/main/files/img/homepage.jpg)
-
 If you want to come back to the homepage from any subpage, just refresh.
 
 ## Reflections
@@ -45,3 +37,5 @@ If you want to come back to the homepage from any subpage, just refresh.
 ### What questions/problems did you face?
 - The app is not so stable due to the streamlit, and sometimes it doesn't load the homepage at the first time and run into bug. When that happens, we need to refresh again and again for the correct page.
 - While streamlit works well with HTML, it can't use the subpage as a href link. So we had to show the image as a gallery inside.
+### Future improvement
+- We would like to add user database to store user's login information and play history. For instance, how much time did user take to guess one lateral thinking puzzle. What kind of story ending and begining of lifestory simulator.

@@ -73,7 +73,7 @@ else:
         st.write("Lateral Thinking Puzzle content goes here.")
         user = "@Mkw24"
         score = 85  # Assuming this is fetched or calculated somehow
-        st.markdown(f"**{user}** Welcome back! Your highest score in Lateral thinking puzzle is: **{score}**")
+        # st.markdown(f"**{user}** Welcome back! Your highest score in Lateral thinking puzzle is: **{score}**")
         level = st.selectbox("Level", ["⭐Easy mode", "⭐⭐Challenge mode", "⭐⭐⭐Difficult mode"])
         level_LUT = {"⭐Easy mode": 'easy', "⭐⭐Challenge mode": 'medium', "⭐⭐⭐Difficult mode": 'hard'}
         st.session_state.level = level_LUT[level]
