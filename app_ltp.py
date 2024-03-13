@@ -176,4 +176,4 @@ def ltp_page(level):
                     message = {"role": "assistant", "content": response}
                     st.session_state.messages.append(message)  # Add response to message history
 
-ltp_page('medium')
+# ltp_page('medium')

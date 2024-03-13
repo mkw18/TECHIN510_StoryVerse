@@ -97,21 +97,26 @@ def ls_page(gender, family, parent, live, siblings):
         if st.session_state.messages[-1]["role"] != "assistant":
             with st.chat_message("assistant"):
                 with st.spinner("Thinking..."):
-                    completion = client.chat.completions.create(
-                        model="gpt-4",
-                        messages=st.session_state.messages
-                    )
-                    response = completion.choices[0].message.content
-                    print(response)
-                    attribute = response.split("Attributes")[-1]
-                    attribute, story = attribute.split('Story')[0].strip(), attribute.split('Story')[1].strip()
-                    story, choice = story.split('Choice')[0].strip(), story.split('Choice')[1].strip()
-                    if attribute[0] == ':':
-                        attribute = attribute[1:].strip()
-                    if story[0] == ':':
-                        story = story[1:].strip()
-                    if choice[0] == ':':
-                        choice = choice[1:].strip()
+                    while True:
+                        try:
+                            completion = client.chat.completions.create(
+                                model="gpt-4",
+                                messages=st.session_state.messages
+                            )
+                            response = completion.choices[0].message.content
+                            print(response)
+                            attribute = response.split("Attributes")[-1]
+                            attribute, story = attribute.split('Story')[0].strip(), attribute.split('Story')[1].strip()
+                            story, choice = story.split('Choice')[0].strip(), story.split('Choice')[1].strip()
+                            if attribute[0] == ':':
+                                attribute = attribute[1:].strip()
+                            if story[0] == ':':
+                                story = story[1:].strip()
+                            if choice[0] == ':':
+                                choice = choice[1:].strip()
+                            break
+                        except:
+                            continue
                     st.session_state.attributes.text_area('Attributes', value=attribute, height=300, disabled=True)
                     st.session_state.stroy_txt.text_area('Story', value=story, height=400, disabled=True)
                     st.session_state.attr = attribute
@@ -120,4 +125,4 @@ def ls_page(gender, family, parent, live, siblings):
                     message = {"role": "assistant", "content": response}
                     st.session_state.messages.append(message)  # Add response to message history
 
-ls_page("Male", "Modest Family", "Happy and Prosperous", "Prosperous City", 0)
+# ls_page("Male", "Modest Family", "Happy and Prosperous", "Prosperous City", 0)
